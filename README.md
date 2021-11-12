@@ -1,9 +1,2 @@
-### Hi there 👋, I'm ARFAN
-![]https://raw.githubusercontent.com/khan188993/Note/master/web%20design/Creative%20Section/images/PicsArt_11-13-12.45.34.jpg?token=AN3ENCFQJMEYQB3IC2QQNKDBR3AYA
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
-
-Skills: VUE JS / REACT / JS / HTML / CSS
-
-- 🔭 I’m currently working on this page. 
-
+![PicsArt_11-13-12 57 41](https://user-images.githubusercontent.com/58082952/141525064-f867d2d2-7723-4f38-9da4-43b8078024dc.jpg)
