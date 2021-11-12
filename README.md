@@ -7,7 +7,6 @@
 ##### 👑 Passionate About Web Developement
 ##### 🖊️ Love To Learn New Skils
 ##### 🎤 Like To Share My Knowledge With Others
-
 I’m a Full Stack Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind.Most of the time I work with WordPress,Laravel but some technologies I enjoy working with include ReactJS, JavaScript as well as PHP.
 
 ##### Skills: HTML | CSS | JS | PHP | WORDPRESS | LARAVEL 
