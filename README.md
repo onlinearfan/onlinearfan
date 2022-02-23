@@ -39,9 +39,9 @@
     src="https://user-images.githubusercontent.com/58082952/155396554-f5d19743-0dd7-48c5-89bc-c74bab330097.png"
     alt="cover-arfan" />
     </div><br>
-    <table border="2" bgcolor="red" cellpadding="100">
+    <table border="2">
         <tr>
-            <td>
+            <td><br>
                 <div align="center">
                     <div>
                         <img width="8%"
@@ -87,7 +87,7 @@
                             src="https://user-images.githubusercontent.com/58082952/155397424-fe1b9d85-4349-43be-8e88-8e7c62cdc639.png"
                             alt="github" />&nbsp;&nbsp;&nbsp;&nbsp;
                     </div>
-                </div>
+                </div><br>
             </td>
         </tr>
     </table>
