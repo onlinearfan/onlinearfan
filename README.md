@@ -49,7 +49,7 @@
             src="https://user-images.githubusercontent.com/58082952/155369310-64f474c2-a0c1-413b-99ba-f34aa27b439b.png"
             alt="connect" />
     </div>
-      <div>
+      <div align="center">
         <a target="_blank" href="https://www.linkedin.com/in/ileriayo-adebiyi-0328b1101/"><img
                 src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
         <a target="_blank" href="https://twitter.com/ileriayooo"><img
