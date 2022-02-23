@@ -275,8 +275,3 @@
             </td>
         </tr>
     </table>
-    ![PicsArt_02-24-04 51 02](https://user-images.githubusercontent.com/58082952/155424035-7a230a17-3fe0-49ba-9db9-a52e1b20fe64.jpg)
-
-![PicsArt_02-24-04 53 36](https://user-images.githubusercontent.com/58082952/155424126-9fe342fc-2414-4258-bfb1-82cb7ff44b47.jpg)
-![PicsArt_02-24-04 55 45](https://user-images.githubusercontent.com/58082952/155424131-7e7246c4-8d9b-4f7c-a8ba-c9d60509dd5c.jpg)
-![PicsArt_02-24-04 52 10](https://user-images.githubusercontent.com/58082952/155424132-e7424ae1-7740-4f19-acdb-59af9692fd78.jpg)
