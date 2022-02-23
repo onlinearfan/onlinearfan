@@ -148,7 +148,7 @@
                 width="17%" alt="linkend" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
     </div>
 </div><br><br><br><br>
-    <table border="1">
+    <table border="1" align="center">
         <tr>
             <td width="24%">
                 <div class="title-img" align="center">
