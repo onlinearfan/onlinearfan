@@ -7,8 +7,8 @@
 
     <tr>
         <th>
-            <img width="50%"
-                src="https://user-images.githubusercontent.com/58082952/155313851-16ef0c6d-01d7-47fe-9adf-626144ac97f3.png"
+            <img width="250"
+                src="https://user-images.githubusercontent.com/58082952/141611230-f1ec133e-9144-4ee6-9c91-48ca5a95f745.jpg"
                 alt="header" />
                 <ul>
                     <li>asfdsafadf</li>
