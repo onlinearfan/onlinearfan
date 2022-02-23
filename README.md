@@ -37,7 +37,7 @@
 <h1 align="center"> 👋 </h1>
 <div align="center">
   
-   <img src="https://user-images.githubusercontent.com/58082952/141611230-f1ec133e-9144-4ee6-9c91-48ca5a95f745.jpg" alt="header"/>
+   <img src="https://user-images.githubusercontent.com/58082952/141611230-f1ec133e-9144-4ee6-9c91-48ca5a95f745.jpg" width="300" alt="header"/>
 </div>
 <p align="center"> (Open for Hiring)</p>
 
