@@ -123,6 +123,14 @@
         <a href="mailto:ileriayoadebiyi@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img
                 src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
     </div>
+    <div>
+    <a target="_blank" href="https://www.linkedin.com/in/ileriayo-adebiyi-0328b1101/"><img
+            src="https://user-images.githubusercontent.com/58082952/155407719-87e24d90-ae77-4240-9e21-61c0918b2b07.jpg" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a target="_blank" href="https://twitter.com/ileriayooo"><img
+            src="https://user-images.githubusercontent.com/58082952/155407722-7eae866e-ab5f-430a-8d5d-78e34f353296.jpg" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="mailto:ileriayoadebiyi@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img
+            src="https://user-images.githubusercontent.com/58082952/155407725-21b7cbda-510a-4b7e-b14f-c1b0f02853e3.jpg" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</div>
 ![PicsArt_02-24-02 37 35](https://user-images.githubusercontent.com/58082952/155407716-b2fada56-bc8c-4f8b-97f5-ff4f6686e2cf.jpg)
 ![PicsArt_02-24-02 40 42](https://user-images.githubusercontent.com/58082952/155407719-87e24d90-ae77-4240-9e21-61c0918b2b07.jpg)
 ![PicsArt_02-24-02 43 11](https://user-images.githubusercontent.com/58082952/155407722-7eae866e-ab5f-430a-8d5d-78e34f353296.jpg)
