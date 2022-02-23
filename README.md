@@ -157,5 +157,12 @@
         <a href="mailto:ileriayoadebiyi@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img
                 src="https://user-images.githubusercontent.com/58082952/155407731-eef65949-5926-4505-b1eb-f5eaddc97d1b.jpg"
                 width="17%" alt="fb" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="mailto:ileriayoadebiyi@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img
+                src="https://user-images.githubusercontent.com/58082952/155410299-bc5f48fe-afdc-4029-92da-1b09edb62489.jpg"
+                width="17%" alt="instagram" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="mailto:ileriayoadebiyi@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img
+                src="https://user-images.githubusercontent.com/58082952/155410306-25ed60ee-7c6b-490c-9882-e74b8b471d9b.jpg"
+                width="17%" alt="linkend" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
     </div>
 </div>
+
