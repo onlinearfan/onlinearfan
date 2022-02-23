@@ -13,7 +13,7 @@
       <th>fahim</th>
       <th>Arfan</th>
       <th>shuvo</th>
-      <th style="color:Tomato;">fahim</th>
+      <th>fahim</th>
       <th>Arfan</th>
       <th>shuvo</th>
       <th>fahim</th>
