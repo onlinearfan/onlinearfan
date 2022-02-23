@@ -20,7 +20,7 @@
 <div>
     <div align="center">
         <img width="40%"
-            src="https://user-images.githubusercontent.com/58082952/155396615-b1341891-8554-4ba6-9590-9811f8b3b1e7.png"
+            src="https://user-images.githubusercontent.com/58082952/155396493-95a15078-9e34-4c48-817e-ef486af065a5.png"
             alt="professional-webdev" />
     </div><br><br>
     <b>👑 I'm an aspiring 🔭️ Web Developer currently learning 🌱 Nodejs deeply.</b><br>
