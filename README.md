@@ -4,7 +4,7 @@
 --->  
 <table>
     <tr>
-        <td>
+        <th>
             <img width="250"
                 src="https://user-images.githubusercontent.com/58082952/141611230-f1ec133e-9144-4ee6-9c91-48ca5a95f745.jpg"
                 alt="header" />
@@ -15,8 +15,8 @@
                     <li>asfdsafadf</li>
                     <li>asfdsafadf</li>
                 </ul>
-        </td>
-        <td>
+        </th>
+        <th>
             <img width="250"
                 src="https://user-images.githubusercontent.com/58082952/141611230-f1ec133e-9144-4ee6-9c91-48ca5a95f745.jpg"
                 alt="header" />
@@ -27,7 +27,7 @@
                     <li>asfdsafadf</li>
                     <li>asfdsafadf</li>
                 </ul>
-        </td>
+        </th>
         <td>
             <img width="250"
                 src="https://user-images.githubusercontent.com/58082952/141611230-f1ec133e-9144-4ee6-9c91-48ca5a95f745.jpg"
@@ -54,7 +54,7 @@
         </td>
     </tr>
     <tr>
-        <td>
+        <th>
             <img width="250"
                 src="https://user-images.githubusercontent.com/58082952/141611230-f1ec133e-9144-4ee6-9c91-48ca5a95f745.jpg"
                 alt="header" />
@@ -65,8 +65,8 @@
                     <li>asfdsafadf</li>
                     <li>asfdsafadf</li>
                 </ul>
-        </td>
-        <td>
+        </th>
+        <th>
             <img width="250"
                 src="https://user-images.githubusercontent.com/58082952/141611230-f1ec133e-9144-4ee6-9c91-48ca5a95f745.jpg"
                 alt="header" />
@@ -77,7 +77,7 @@
                     <li>asfdsafadf</li>
                     <li>asfdsafadf</li>
                 </ul>
-        </td>
+        </th>
         <td>
             <img width="250"
                 src="https://user-images.githubusercontent.com/58082952/141611230-f1ec133e-9144-4ee6-9c91-48ca5a95f745.jpg"
