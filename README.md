@@ -1,4 +1,6 @@
 <h1>👋 Hi, I'm ARFAN!</h1>
+<div align="center"><a target="_blank"href="https://www.linkedin.com/in/ileriayo-adebiyi-0328b1101/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></div>
+
 <img width="100%"
     src="https://user-images.githubusercontent.com/58082952/141611230-f1ec133e-9144-4ee6-9c91-48ca5a95f745.jpg"
     alt="header" />
