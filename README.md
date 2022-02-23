@@ -34,6 +34,6 @@
         years, I created 100s of websites for my clients. I pride myself on doing quality work and maintain excellent
         communication. Most of the time I work with WordPress but some technologies I enjoy working with include
         ReactJS, JavaScript as well as PHP..</p>
-    <img width="100%"
+    <img align='center' width="40%"
     src="https://user-images.githubusercontent.com/58082952/155369328-4913bcfc-b08e-4435-ba27-aad6ac54997f.png"
     alt="cover-arfan" />
