@@ -7,7 +7,7 @@
 <b>🖊️ I'm a quick learner & I love to learn new 💻 Technologies.</b><br>
 <b>🎤 Like to share my knowledge</b><br>
 <b>🎫I always love working in Visual Studio Code .</b><br>
-<b>💻 I've a soft corner for Wordpress and I can do some help with wordpress too.</b><br>
+<b>💻 I've a soft corner for Wordpress and I can do some help with wordpress too.</b><br><br>
 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum vel numquam minus dolor enim voluptatibus pariatur aperiam voluptatum perspiciatis assumenda. Natus id voluptate voluptates quisquam quod quis fugit eaque possimus dolores doloribus sapiente quam eveniet, assumenda culpa libero. Excepturi ipsa veniam dolore necessitatibus libero incidunt voluptate temporibus quam aliquid perferendis consectetur vitae quis laboriosam quod nesciunt voluptatem dignissimos rerum cumque distinctio itaque, magnam exercitationem. Itaque animi velit suscipit praesentium. Voluptatum perspiciatis reprehenderit natus ab omnis voluptatibus ducimus suscipit facilis itaque officiis animi quam voluptas eveniet commodi dolor rem illo, fugit atque! Similique, deserunt officiis accusantium maiores saepe perferendis. Facilis, odit.</p>
 
 # 👋 Hi, I'm ARFAN!
