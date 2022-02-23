@@ -1,11 +1,11 @@
 <div align="center" class="Profile Title">
     <div>
-        <img width="20%"
+        <img width="15%"
             src="https://user-images.githubusercontent.com/58082952/155369285-c3a35355-2ff0-4c04-9245-caea050be9f8.png"
             alt="icon" />
     </div>
     <div>
-        <img width="40%"
+        <img width="50%"
             src="https://user-images.githubusercontent.com/58082952/155369301-0a130178-d4b4-4e99-8898-58d2594526c6.png"
             alt="arfan-khan" />
     </div>
