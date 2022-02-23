@@ -5,7 +5,7 @@
 <table>
     <tr>
         <th>
-            <img width="250"
+            <img width="50%"
                 src="https://user-images.githubusercontent.com/58082952/141611230-f1ec133e-9144-4ee6-9c91-48ca5a95f745.jpg"
                 alt="header" />
                 <ul>
