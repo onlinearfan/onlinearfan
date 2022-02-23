@@ -116,7 +116,7 @@
             src="https://user-images.githubusercontent.com/58082952/155396600-2ce485cc-b7d9-441d-88ac-5f1ce8927b89.png"
             alt="connect" />
     </div><br><br><br>
-  <div>
+  <div align="center">
         <div class="link-1">
             <a target="_blank" href="https://www.linkedin.com/in/ileriayo-adebiyi-0328b1101/"><img
                     src="https://user-images.githubusercontent.com/58082952/155419618-cf4e6385-2d6d-4c0b-88bd-e288e34a3473.jpg"
