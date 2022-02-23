@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" class="Profile Title">
     <div>
         <img width="20%"
             src="https://user-images.githubusercontent.com/58082952/155369285-c3a35355-2ff0-4c04-9245-caea050be9f8.png"
@@ -13,8 +13,11 @@
 <img width="100%"
     src="https://user-images.githubusercontent.com/58082952/155369265-9c47fbf7-e93f-45a7-96e9-ce02c5d28b9d.jpg"
     alt="cover-arfan" />
-<div align="center">
-    <div>
+
+    
+
+<div>
+    <div align="center">
         <img width="40%"
             src="https://user-images.githubusercontent.com/58082952/155369347-852ab84f-f384-49ba-8f67-62465a787307.png"
             alt="professional-webdev" />
@@ -31,7 +34,7 @@
         communication. Most of the time I work with WordPress but some technologies I enjoy working with include
         ReactJS, JavaScript as well as PHP..</p>
 
-    <div>
+    <div align="center">
         <img width="40%"
             src="https://user-images.githubusercontent.com/58082952/155369328-4913bcfc-b08e-4435-ba27-aad6ac54997f.png"
             alt="skills" />
@@ -45,7 +48,7 @@
                 src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;
 
     </div>
-    <div>
+    <div align="center">
         <img width="40%"
             src="https://user-images.githubusercontent.com/58082952/155369310-64f474c2-a0c1-413b-99ba-f34aa27b439b.png"
             alt="connect" />
