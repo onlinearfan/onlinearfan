@@ -39,51 +39,51 @@
     src="https://user-images.githubusercontent.com/58082952/155396554-f5d19743-0dd7-48c5-89bc-c74bab330097.png"
     alt="cover-arfan" />
     </div><br>
-    <table border="1">
+    <table border="2">
         <tr>
             <td>
                 <div align="center">
                     <div>
-                        <img width="9%"
+                        <img width="8%"
                             src="https://user-images.githubusercontent.com/58082952/155397252-f3ca8943-e596-4d36-b938-a5f791e67da2.png"
                             alt="vs-code" />&nbsp;&nbsp;&nbsp;&nbsp;
-                        <img width="9%"
+                        <img width="8%"
                             src="https://user-images.githubusercontent.com/58082952/155397263-5b35bc39-a8d4-4681-9d57-55117dfe2a38.png"
                             alt="html" />&nbsp;&nbsp;&nbsp;&nbsp;
-                        <img width="9%"
+                        <img width="8%"
                             src="https://user-images.githubusercontent.com/58082952/155397274-cb25a8db-fe3e-4095-8327-9dd70830aded.png"
                             alt="css" />&nbsp;&nbsp;&nbsp;&nbsp;
-                        <img width="9%"
+                        <img width="8%"
                             src="https://user-images.githubusercontent.com/58082952/155397287-a6b13a81-a141-4eec-861d-15e0b54c17ec.png"
                             alt="js" />&nbsp;&nbsp;&nbsp;&nbsp;
-                        <img width="9%"
+                        <img width="8%"
                             src="https://user-images.githubusercontent.com/58082952/155397303-adb361d5-d2bf-4d6a-8ba3-f1a614a1e65f.png"
                             alt="mongodb" />&nbsp;&nbsp;&nbsp;&nbsp;
-                        <img width="9%"
+                        <img width="8%"
                             src="https://user-images.githubusercontent.com/58082952/155397313-29533e42-9b2a-403b-b239-b5606897c5f2.png"
                             alt="express" />&nbsp;&nbsp;&nbsp;&nbsp;
-                        <img width="9%"
+                        <img width="8%"
                             src="https://user-images.githubusercontent.com/58082952/155397334-d462b853-3a75-410f-b212-7830fcc2cdcc.png"
                             alt="react" />&nbsp;&nbsp;&nbsp;&nbsp;
-                        <img width="9%"
+                        <img width="8%"
                             src="https://user-images.githubusercontent.com/58082952/155397348-cc3b1f2b-9358-412d-9c71-402106271145.png"
                             alt="nodejs" />&nbsp;&nbsp;&nbsp;&nbsp;
                     </div>
                     <br>
                     <div>
-                        <img width="9%"
+                        <img width="8%"
                             src="https://user-images.githubusercontent.com/58082952/155397364-adae2984-4105-4578-a14b-90d7442fb649.png"
                             alt="php" />&nbsp;&nbsp;&nbsp;&nbsp;
-                        <img width="9%"
+                        <img width="8%"
                             src="https://user-images.githubusercontent.com/58082952/155397370-7cf013de-f1c0-4ff2-9cb8-d0d361a194e8.png"
                             alt="laravel" />&nbsp;&nbsp;&nbsp;&nbsp;
-                        <img width="9%"
+                        <img width="8%"
                             src="https://user-images.githubusercontent.com/58082952/155397383-48d7f180-624d-49fd-bfd3-04504806a969.png"
                             alt="wordpress" />&nbsp;&nbsp;&nbsp;&nbsp;
-                        <img width="9%"
+                        <img width="8%"
                             src="https://user-images.githubusercontent.com/58082952/155397404-08032fde-81c8-4ea3-8e70-f133a1de64a8.png"
                             alt="git" />&nbsp;&nbsp;&nbsp;&nbsp;
-                        <img width="9%"
+                        <img width="8%"
                             src="https://user-images.githubusercontent.com/58082952/155397424-fe1b9d85-4349-43be-8e88-8e7c62cdc639.png"
                             alt="github" />&nbsp;&nbsp;&nbsp;&nbsp;
                     </div>
