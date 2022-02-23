@@ -60,8 +60,9 @@
     
     
     
-    
-<img width="20%"
+      <div>
+
+                <img width="20%"
                 src="https://user-images.githubusercontent.com/58082952/155381445-dcbee0a3-acda-41ad-b6f7-d2035d8839d8.png"
                 alt="vs-code" />             
                 <img width="20%"
@@ -81,4 +82,25 @@
                 alt="vs-code" />             
                 <img width="20%"
                 src="https://user-images.githubusercontent.com/58082952/155381587-6fede926-d3d1-4c40-b95c-7bd8530c7eb9.png"
-                alt="vs-code" />  
+                alt="vs-code" />             
+                <img width="20%"
+                src="https://user-images.githubusercontent.com/58082952/155381605-08b7b7ba-8d48-4b0f-8df5-1c8c4d998c95.png"
+                alt="vs-code" />             
+                <img width="20%"
+                src="https://user-images.githubusercontent.com/58082952/155381631-9b5e7447-9049-41f7-b939-0b65dfb2629d.png"
+                alt="vs-code" />             
+                <img width="20%"
+                src="https://user-images.githubusercontent.com/58082952/155381644-21bdbd1d-0d98-4ca4-8add-23945b8ead24.png"
+                alt="vs-code" />             
+                <img width="20%"
+                src="https://user-images.githubusercontent.com/58082952/155381656-7eb9f2a2-49be-49a4-97f6-ffa185ab64ec.png"
+                alt="vs-code" />             
+                <img width="20%"
+                src="https://user-images.githubusercontent.com/58082952/155381684-7b15b240-41c2-4274-a23e-12369c620a37.png"
+                alt="vs-code" />             
+                <img width="20%"
+                src="https://user-images.githubusercontent.com/58082952/155381704-d08fd86a-93a7-4c0d-b813-8aaf49b3ae55.png"
+                alt="vs-code" />             
+
+
+    </div>
