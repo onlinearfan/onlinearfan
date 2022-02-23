@@ -115,39 +115,42 @@
             src="https://user-images.githubusercontent.com/58082952/155396600-2ce485cc-b7d9-441d-88ac-5f1ce8927b89.png"
             alt="connect" />
     </div><br><br><br>
-    <div>
-    <div class="link-1">
-        <a target="_blank" href="https://www.linkedin.com/in/ileriayo-adebiyi-0328b1101/"><img
-                src="https://user-images.githubusercontent.com/58082952/155407719-87e24d90-ae77-4240-9e21-61c0918b2b07.jpg"
-                width="17%" alt="youtube" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-        <a target="_blank" href="https://twitter.com/ileriayooo"><img
-                src="https://user-images.githubusercontent.com/58082952/155407722-7eae866e-ab5f-430a-8d5d-78e34f353296.jpg"
-                width="17%" alt="gmail" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-        <a href="mailto:ileriayoadebiyi@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img
-                src="https://user-images.githubusercontent.com/58082952/155407725-21b7cbda-510a-4b7e-b14f-c1b0f02853e3.jpg"
-                width="17%" alt="twitter" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-        <a href="mailto:ileriayoadebiyi@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img
-                src="https://user-images.githubusercontent.com/58082952/155407716-b2fada56-bc8c-4f8b-97f5-ff4f6686e2cf.jpg"
-                width="17%" alt="dribble" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-        <a href="mailto:ileriayoadebiyi@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img
-                src="https://user-images.githubusercontent.com/58082952/155407728-cb413ebb-7b5c-4f17-9f2d-1529c4b1805d.jpg"
-                width="17%" alt="github" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    </div><br>
-    <div class="link-2">
-        <a href="mailto:ileriayoadebiyi@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img
-                src="https://user-images.githubusercontent.com/58082952/155407734-b0d62337-9fcc-42da-8d01-cbd8f215a135.jpg"
-                width="17%" alt="behance" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-        <a href="mailto:ileriayoadebiyi@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img
-                src="https://user-images.githubusercontent.com/58082952/155407731-eef65949-5926-4505-b1eb-f5eaddc97d1b.jpg"
-                width="17%" alt="fb" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-        <a href="mailto:ileriayoadebiyi@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img
-                src="https://user-images.githubusercontent.com/58082952/155410299-bc5f48fe-afdc-4029-92da-1b09edb62489.jpg"
-                width="17%" alt="instagram" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-        <a href="mailto:ileriayoadebiyi@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img
-                src="https://user-images.githubusercontent.com/58082952/155410306-25ed60ee-7c6b-490c-9882-e74b8b471d9b.jpg"
-                width="17%" alt="linkend" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <div>
+        <div class="link-1">
+            <a target="_blank" href="https://www.linkedin.com/in/ileriayo-adebiyi-0328b1101/"><img
+                    src="https://user-images.githubusercontent.com/58082952/155419618-cf4e6385-2d6d-4c0b-88bd-e288e34a3473.jpg"
+                    width="17%" alt="arfan" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+            <a target="_blank" href="https://twitter.com/ileriayooo"><img
+                    src="https://user-images.githubusercontent.com/58082952/155407722-7eae866e-ab5f-430a-8d5d-78e34f353296.jpg"
+                    width="17%" alt="gmail" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+            <a href="mailto:ileriayoadebiyi@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img
+                    src="https://user-images.githubusercontent.com/58082952/155407725-21b7cbda-510a-4b7e-b14f-c1b0f02853e3.jpg"
+                    width="17%" alt="twitter" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+            <a href="mailto:ileriayoadebiyi@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img
+                    src="https://user-images.githubusercontent.com/58082952/155407716-b2fada56-bc8c-4f8b-97f5-ff4f6686e2cf.jpg"
+                    width="17%" alt="dribble" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+            <a href="mailto:ileriayoadebiyi@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img
+                    src="https://user-images.githubusercontent.com/58082952/155407728-cb413ebb-7b5c-4f17-9f2d-1529c4b1805d.jpg"
+                    width="17%" alt="github" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+        </div><br>
+        <div class="link-2">
+            <a href="mailto:ileriayoadebiyi@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img
+                    src="https://user-images.githubusercontent.com/58082952/155407734-b0d62337-9fcc-42da-8d01-cbd8f215a135.jpg"
+                    width="17%" alt="behance" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+            <a href="mailto:ileriayoadebiyi@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img
+                    src="https://user-images.githubusercontent.com/58082952/155407731-eef65949-5926-4505-b1eb-f5eaddc97d1b.jpg"
+                    width="17%" alt="fb" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+            <a href="mailto:ileriayoadebiyi@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img
+                    src="https://user-images.githubusercontent.com/58082952/155410299-bc5f48fe-afdc-4029-92da-1b09edb62489.jpg"
+                    width="17%" alt="instagram" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+            <a href="mailto:ileriayoadebiyi@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img
+                    src="https://user-images.githubusercontent.com/58082952/155410306-25ed60ee-7c6b-490c-9882-e74b8b471d9b.jpg"
+                    width="17%" alt="linkend" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+            <a target="_blank" href="https://www.linkedin.com/in/ileriayo-adebiyi-0328b1101/"><img
+                    src="https://user-images.githubusercontent.com/58082952/155407719-87e24d90-ae77-4240-9e21-61c0918b2b07.jpg"
+                    width="17%" alt="youtube" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+        </div>
     </div>
-</div><br><br><br><br>
     <table border="1" align="center">
         <tr>
             <td width="24%">
