@@ -4,16 +4,16 @@
 --->  
 <table>
     <tr>
-        <img width="400" src="https://user-images.githubusercontent.com/58082952/141611230-f1ec133e-9144-4ee6-9c91-48ca5a95f745.jpg" alt="header"/>
-    </tr>
-    <tr>
-        <ul>
-            <li>asfdsafadf</li>
-            <li>asfdsafadf</li>
-            <li>asfdsafadf</li>
-            <li>asfdsafadf</li>
-            <li>asfdsafadf</li>
-        </ul>
+        <td><img width="400" src="https://user-images.githubusercontent.com/58082952/141611230-f1ec133e-9144-4ee6-9c91-48ca5a95f745.jpg" alt="header"/></td>
+        <td>
+            <ul>
+                <li>asfdsafadf</li>
+                <li>asfdsafadf</li>
+                <li>asfdsafadf</li>
+                <li>asfdsafadf</li>
+                <li>asfdsafadf</li>
+            </ul>
+        </td>
     </tr>
 </table>
 <h1><font  face = "Verdana" color="green"  weight="700">Arfan</font></h1>
