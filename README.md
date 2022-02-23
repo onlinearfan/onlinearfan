@@ -2,6 +2,19 @@
 <!--
 **Ileriayo/ileriayo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --->  
+
+<table>
+  <th>
+    <tr>Arfan khan</tr>
+    <tr>Arfan khan</tr>
+    <tr>Arfan khan</tr>
+  </th>
+  <td>
+    <tr>Arfan khan</tr>
+    <tr>Arfan khan</tr>
+    <tr>Arfan khan</tr>
+  </td>
+</table>
 <h1 color="red"> 😍 Arfan Khan</h1>
 <h1 align="center"> 👋 </h1>
 <div align="center">
