@@ -3,8 +3,6 @@
 **Ileriayo/ileriayo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --->  
 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vk7ADZfnSE4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <table>
     <tr>
         <th>
