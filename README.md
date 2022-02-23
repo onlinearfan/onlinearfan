@@ -7,9 +7,29 @@
 <b>🖊️ I'm a quick learner & I love to learn new 💻 Technologies.</b><br>
 <b>🎤 Like to share my knowledge</b><br>
 <b>🎫I always love working in Visual Studio Code .</b><br>
-<b>💻 I've a soft corner for Wordpress and I can do some help with wordpress too.</b><br><br>
-<p>I’m a Front End Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. Over the past years, I created 100s of websites for my clients. I pride myself on doing quality work and maintain excellent communication. Most of the time I work with WordPress but some technologies I enjoy working with include ReactJS, JavaScript as well as PHP.</p>
+<b>💻 I've a soft corner for Wordpress and I can do some help with wordpress too.</b><br>
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum vel numquam minus dolor enim voluptatibus pariatur
+    aperiam voluptatum perspiciatis assumenda. Natus id voluptate voluptates quisquam quod quis fugit eaque possimus
+    dolores doloribus sapiente quam eveniet, assumenda culpa libero. Excepturi ipsa veniam dolore necessitatibus libero
+    incidunt voluptate temporibus quam aliquid perferendis consectetur vitae quis laboriosam quod nesciunt voluptatem
+    dignissimos rerum cumque distinctio itaque, magnam exercitationem. Itaque animi velit suscipit praesentium.
+    Voluptatum perspiciatis reprehenderit natus ab omnis voluptatibus ducimus suscipit facilis itaque officiis animi
+    quam voluptas eveniet commodi dolor rem illo, fugit atque! Similique, deserunt officiis accusantium maiores saepe
+    perferendis. Facilis, odit.</p>
 
+<h3>👨‍💻 Skills & Experiance:</h3>
+<img
+    src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
+<img
+    src="https://img.shields.io/badge/react%20-%2300D9FF.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;
+<img
+    src="https://img.shields.io/badge/tailwind-css%20-%231572B6.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp;&nbsp;
+<h3>☕ Connect with me!</h3>
+<a target="_blank"href="https://www.linkedin.com/in/ileriayo-adebiyi-0328b1101/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a target="_blank"href="https://twitter.com/ileriayooo"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:ileriayoadebiyi@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<h3>📧 For Business Inquiries</h3>
+<a href="www.fiverr.com">✅ ► khan188993@gmail.com</a>
 # 👋 Hi, I'm ARFAN!
 <!--
 **Ileriayo/ileriayo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
