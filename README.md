@@ -8,7 +8,7 @@
 <b>🎤 Like to share my knowledge</b><br>
 <b>🎫I always love working in Visual Studio Code .</b><br>
 <b>💻 I've a soft corner for Wordpress and I can do some help with wordpress too.</b><br><br>
-<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum vel numquam minus dolor enim voluptatibus pariatur aperiam voluptatum perspiciatis assumenda. Natus id voluptate voluptates quisquam quod quis fugit eaque possimus dolores doloribus sapiente quam eveniet, assumenda culpa libero. Excepturi ipsa veniam dolore necessitatibus libero incidunt voluptate temporibus quam aliquid perferendis consectetur vitae quis laboriosam quod nesciunt voluptatem dignissimos rerum cumque distinctio itaque, magnam exercitationem. Itaque animi velit suscipit praesentium. Voluptatum perspiciatis reprehenderit natus ab omnis voluptatibus ducimus suscipit facilis itaque officiis animi quam voluptas eveniet commodi dolor rem illo, fugit atque! Similique, deserunt officiis accusantium maiores saepe perferendis. Facilis, odit.</p>
+<p>I’m a Front End Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. Over the past years, I created 100s of websites for my clients. I pride myself on doing quality work and maintain excellent communication. Most of the time I work with WordPress but some technologies I enjoy working with include ReactJS, JavaScript as well as PHP.</p>
 
 # 👋 Hi, I'm ARFAN!
 <!--
