@@ -151,6 +151,23 @@
                     src="https://user-images.githubusercontent.com/58082952/155407719-87e24d90-ae77-4240-9e21-61c0918b2b07.jpg"
                     width="17%" alt="youtube" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
         </div>
+       <div class="link-3">
+            <a href="mailto:ileriayoadebiyi@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img
+                    src="https://user-images.githubusercontent.com/58082952/155424035-7a230a17-3fe0-49ba-9db9-a52e1b20fe64.jpg"
+                    width="17%" alt="fiverr" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+            <a href="mailto:ileriayoadebiyi@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img
+                    src="https://user-images.githubusercontent.com/58082952/155424126-9fe342fc-2414-4258-bfb1-82cb7ff44b47.jpg"
+                    width="17%" alt="upwork" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+            <a href="mailto:ileriayoadebiyi@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img
+                    src="https://user-images.githubusercontent.com/58082952/155424132-e7424ae1-7740-4f19-acdb-59af9692fd78.jpg"
+                    width="17%" alt="freelancer" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+            <a href="mailto:ileriayoadebiyi@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img
+                    src="https://user-images.githubusercontent.com/58082952/155424131-7e7246c4-8d9b-4f7c-a8ba-c9d60509dd5c.jpg"
+                    width="17%" alt="peopleperhour" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+            <a target="_blank" href="https://www.linkedin.com/in/ileriayo-adebiyi-0328b1101/"><img
+                    src="https://user-images.githubusercontent.com/58082952/155407719-87e24d90-ae77-4240-9e21-61c0918b2b07.jpg"
+                    width="17%" alt="youtube" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+        </div>
     </div>
     <br><br><br><br>
     <div align="center"><img width="40%"
