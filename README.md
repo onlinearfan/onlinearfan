@@ -20,7 +20,7 @@ I’m a Full Stack Web developer who is passionate about making error-free websi
 <!--
 **Ileriayo/ileriayo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --->  
-<h1> 😍 Arfan Khan</h1>
+<h1 style="background:red;color:white;"> 😍 Arfan Khan</h1>
 <h1 align="center"> 👋 </h1>
 <div align="center">
   (https://user-images.githubusercontent.com/58082952/141611230-f1ec133e-9144-4ee6-9c91-48ca5a95f745.jpg)
