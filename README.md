@@ -2,7 +2,7 @@
 <!--
 **Ileriayo/ileriayo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --->  
-<table>
+<table border='0'>
     <tr>
         <td><img width="400" src="https://user-images.githubusercontent.com/58082952/141611230-f1ec133e-9144-4ee6-9c91-48ca5a95f745.jpg" alt="header"/></td>
         <td>
