@@ -8,7 +8,7 @@
 <table border="2" width="720">
   <thead>
     <tr>
-      <th>Arfan</th>
+      <th width="200">Arfan</th>
       <th>shuvo</th>
       <th>fahim</th>
       <th>Arfan</th>
