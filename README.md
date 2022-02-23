@@ -41,7 +41,7 @@
     </div><br><br><br>
     <table border="1">
         <tr>
-            <td >
+            <td ><br>
                 <div align="center">
                     <div>
                         <img width="8%"
@@ -106,6 +106,7 @@
                             alt="xl" />&nbsp;&nbsp;&nbsp;&nbsp;
                     </div>
                 </div>
+                <br>
             </td>
         </tr>
     </table>
