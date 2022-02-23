@@ -105,6 +105,8 @@
         <a href="mailto:ileriayoadebiyi@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img
                 src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
     </div>
-    ![cover](https://user-images.githubusercontent.com/58082952/155391134-f682d44a-c796-4866-9814-a7257e4df477.svg)
-![PicsArt_02-23-09 30 02](https://user-images.githubusercontent.com/58082952/155396000-063b929e-9358-42f2-88e4-3c9f4ff29714.jpg)
-
+![PicsArt_02-23-10 44 32](https://user-images.githubusercontent.com/58082952/155396493-95a15078-9e34-4c48-817e-ef486af065a5.png)
+![PicsArt_02-23-10 45 32](https://user-images.githubusercontent.com/58082952/155396554-f5d19743-0dd7-48c5-89bc-c74bab330097.png)
+![PicsArt_02-23-10 51 24](https://user-images.githubusercontent.com/58082952/155396585-b72fc473-e6d9-43b4-8172-95858e7ba865.png)
+![PicsArt_02-23-10 51 56](https://user-images.githubusercontent.com/58082952/155396600-2ce485cc-b7d9-441d-88ac-5f1ce8927b89.png)
+![PicsArt_02-23-10 54 16](https://user-images.githubusercontent.com/58082952/155396615-b1341891-8554-4ba6-9590-9811f8b3b1e7.png)
