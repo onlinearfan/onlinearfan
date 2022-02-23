@@ -39,53 +39,53 @@
     src="https://user-images.githubusercontent.com/58082952/155396554-f5d19743-0dd7-48c5-89bc-c74bab330097.png"
     alt="cover-arfan" />
     </div><br>
-<table  border="1">
+    <table border="1">
         <tr>
             <td>
                 <div align="center">
                     <div>
                         <img width="9%"
-                            src="https://user-images.githubusercontent.com/58082952/155381445-dcbee0a3-acda-41ad-b6f7-d2035d8839d8.png"
+                            src="https://user-images.githubusercontent.com/58082952/155397252-f3ca8943-e596-4d36-b938-a5f791e67da2.png"
                             alt="vs-code" />&nbsp;&nbsp;&nbsp;&nbsp;
                         <img width="9%"
-                            src="https://user-images.githubusercontent.com/58082952/155381482-583afe3d-9a38-40f2-953f-648c893ab31d.png"
-                            alt="vs-code" />&nbsp;&nbsp;&nbsp;&nbsp;
+                            src="https://user-images.githubusercontent.com/58082952/155397263-5b35bc39-a8d4-4681-9d57-55117dfe2a38.png"
+                            alt="html" />&nbsp;&nbsp;&nbsp;&nbsp;
                         <img width="9%"
-                            src="https://user-images.githubusercontent.com/58082952/155381503-e9a33f1c-6d10-4619-92cd-1144146f6fc4.png"
-                            alt="vs-code" />&nbsp;&nbsp;&nbsp;&nbsp;
+                            src="https://user-images.githubusercontent.com/58082952/155397274-cb25a8db-fe3e-4095-8327-9dd70830aded.png"
+                            alt="css" />&nbsp;&nbsp;&nbsp;&nbsp;
                         <img width="9%"
-                            src="https://user-images.githubusercontent.com/58082952/155381513-0bb1b62b-68aa-456f-942e-5a219d5bcf67.png"
-                            alt="vs-code" />&nbsp;&nbsp;&nbsp;&nbsp;
+                            src="https://user-images.githubusercontent.com/58082952/155397287-a6b13a81-a141-4eec-861d-15e0b54c17ec.png"
+                            alt="js" />&nbsp;&nbsp;&nbsp;&nbsp;
                         <img width="9%"
-                            src="https://user-images.githubusercontent.com/58082952/155381538-9b1605a6-6e5e-4b89-88f3-a037b81ca3d2.png"
-                            alt="vs-code" />&nbsp;&nbsp;&nbsp;&nbsp;
+                            src="https://user-images.githubusercontent.com/58082952/155397303-adb361d5-d2bf-4d6a-8ba3-f1a614a1e65f.png"
+                            alt="mongodb" />&nbsp;&nbsp;&nbsp;&nbsp;
                         <img width="9%"
-                            src="https://user-images.githubusercontent.com/58082952/155381559-629d564a-e122-4a18-98bb-01004fbce392.png"
-                            alt="vs-code" />&nbsp;&nbsp;&nbsp;&nbsp;
+                            src="https://user-images.githubusercontent.com/58082952/155397313-29533e42-9b2a-403b-b239-b5606897c5f2.png"
+                            alt="express" />&nbsp;&nbsp;&nbsp;&nbsp;
                         <img width="9%"
-                            src="https://user-images.githubusercontent.com/58082952/155381587-6fede926-d3d1-4c40-b95c-7bd8530c7eb9.png"
-                            alt="vs-code" />&nbsp;&nbsp;&nbsp;&nbsp;
+                            src="https://user-images.githubusercontent.com/58082952/155397334-d462b853-3a75-410f-b212-7830fcc2cdcc.png"
+                            alt="react" />&nbsp;&nbsp;&nbsp;&nbsp;
                         <img width="9%"
-                            src="https://user-images.githubusercontent.com/58082952/155381605-08b7b7ba-8d48-4b0f-8df5-1c8c4d998c95.png"
-                            alt="vs-code" />&nbsp;&nbsp;&nbsp;&nbsp;
-                        <img width="9%"
-                            src="https://user-images.githubusercontent.com/58082952/155381631-9b5e7447-9049-41f7-b939-0b65dfb2629d.png"
-                            alt="vs-code" />&nbsp;&nbsp;&nbsp;&nbsp;
+                            src="https://user-images.githubusercontent.com/58082952/155397348-cc3b1f2b-9358-412d-9c71-402106271145.png"
+                            alt="nodejs" />&nbsp;&nbsp;&nbsp;&nbsp;
                     </div>
                     <br>
                     <div>
                         <img width="9%"
-                            src="https://user-images.githubusercontent.com/58082952/155381644-21bdbd1d-0d98-4ca4-8add-23945b8ead24.png"
-                            alt="vs-code" />&nbsp;&nbsp;&nbsp;&nbsp;
+                            src="https://user-images.githubusercontent.com/58082952/155397364-adae2984-4105-4578-a14b-90d7442fb649.png"
+                            alt="php" />&nbsp;&nbsp;&nbsp;&nbsp;
                         <img width="9%"
-                            src="https://user-images.githubusercontent.com/58082952/155381656-7eb9f2a2-49be-49a4-97f6-ffa185ab64ec.png"
-                            alt="vs-code" />&nbsp;&nbsp;&nbsp;&nbsp;
+                            src="https://user-images.githubusercontent.com/58082952/155397370-7cf013de-f1c0-4ff2-9cb8-d0d361a194e8.png"
+                            alt="laravel" />&nbsp;&nbsp;&nbsp;&nbsp;
                         <img width="9%"
-                            src="https://user-images.githubusercontent.com/58082952/155381684-7b15b240-41c2-4274-a23e-12369c620a37.png"
-                            alt="vs-code" />&nbsp;&nbsp;&nbsp;&nbsp;
+                            src="https://user-images.githubusercontent.com/58082952/155397383-48d7f180-624d-49fd-bfd3-04504806a969.png"
+                            alt="wordpress" />&nbsp;&nbsp;&nbsp;&nbsp;
                         <img width="9%"
-                            src="https://user-images.githubusercontent.com/58082952/155381704-d08fd86a-93a7-4c0d-b813-8aaf49b3ae55.png"
-                            alt="vs-code" />&nbsp;&nbsp;&nbsp;&nbsp;
+                            src="https://user-images.githubusercontent.com/58082952/155397404-08032fde-81c8-4ea3-8e70-f133a1de64a8.png"
+                            alt="git" />&nbsp;&nbsp;&nbsp;&nbsp;
+                        <img width="9%"
+                            src="https://user-images.githubusercontent.com/58082952/155397424-fe1b9d85-4349-43be-8e88-8e7c62cdc639.png"
+                            alt="github" />&nbsp;&nbsp;&nbsp;&nbsp;
                     </div>
                 </div>
             </td>
