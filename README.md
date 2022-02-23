@@ -155,13 +155,13 @@
     <div align="center"><img width="40%"
             src="https://user-images.githubusercontent.com/58082952/155419606-64f04e50-4d69-41df-b64d-e35ca79458b7.png"
             alt="project" /></div><br><br><br>
-    <table border="1">
+  <table border="1">
         <tr>
             <td width="24%">
                 <div class="title-img" align="center">
                     <img src="https://user-images.githubusercontent.com/58082952/155419602-a460ebda-15cc-4d5b-8434-18afc22c8b5f.jpg"
                         width="100%" alt="html-css-js" />
-                </div>
+                </div><br>
                 <div class="project-link">
                     <div><span>🎯</span><a href="#">Live View</a> | <a href="#">Source Code</a></div>
                     <div><span>🎯</span><a href="#">Live View</a> | <a href="#">Source Code</a></div>
@@ -173,7 +173,7 @@
                 <div class="title-img" align="center">
                     <img src="https://user-images.githubusercontent.com/58082952/155419622-6ac16a8d-b59c-4105-81d2-a59ca3be4b10.jpg"
                         width="100%" alt="react" />
-                </div>
+                </div><br>
                 <div class="project-link">
                     <div><span>🎯</span><a href="#">Live View</a> | <a href="#">Source Code</a></div>
                     <div><span>🎯</span><a href="#">Live View</a> | <a href="#">Source Code</a></div>
@@ -185,7 +185,7 @@
                 <div class="title-img" align="center">
                     <img src="https://user-images.githubusercontent.com/58082952/155419625-8b8deb81-089b-4090-a9c6-99519b933827.jpg"
                         width="100%" alt="mern" />
-                </div>
+                </div><br>
                 <div class="project-link">
                     <div><span>🎯</span><a href="#">Live View</a> | <a href="#">Source Code</a></div>
                     <div><span>🎯</span><a href="#">Live View</a> | <a href="#">Source Code</a></div>
@@ -197,7 +197,7 @@
                 <div class="title-img" align="center">
                     <img src="https://user-images.githubusercontent.com/58082952/155419601-602dd63a-dd69-4641-a32b-9cb0c601114a.jpg"
                         width="100%" alt="php" />
-                </div>
+                </div><br>
                 <div class="project-link">
                     <div><span>🎯</span><a href="#">Live View</a> | <a href="#">Source Code</a></div>
                     <div><span>🎯</span><a href="#">Live View</a> | <a href="#">Source Code</a></div>
@@ -211,7 +211,7 @@
                 <div class="title-img" align="center">
                     <img src="https://user-images.githubusercontent.com/58082952/155419631-3179f80f-b915-48ed-a9d8-087a62024173.jpg"
                         width="100%" alt="laravel" />
-                </div>
+                </div><br>
                 <div class="project-link">
                     <div><span>🎯</span><a href="#">Live View</a> | <a href="#">Source Code</a></div>
                     <div><span>🎯</span><a href="#">Live View</a> | <a href="#">Source Code</a></div>
@@ -223,7 +223,7 @@
                 <div class="title-img" align="center">
                     <img src="https://user-images.githubusercontent.com/58082952/155419586-0d27162d-482f-487d-9144-a0789bc525ea.jpg"
                         width="100%" alt="wp" />
-                </div>
+                </div><br>
                 <div class="project-link">
                     <div><span>🎯</span><a href="#">Live View</a> | <a href="#">Source Code</a></div>
                     <div><span>🎯</span><a href="#">Live View</a> | <a href="#">Source Code</a></div>
@@ -235,7 +235,7 @@
                 <div class="title-img" align="center">
                     <img src="https://user-images.githubusercontent.com/58082952/155407728-cb413ebb-7b5c-4f17-9f2d-1529c4b1805d.jpg"
                         width="100%" alt="github" />
-                </div>
+                </div><br>
                 <div class="project-link">
                     <div><span>🎯</span><a href="#">Live View</a> | <a href="#">Source Code</a></div>
                     <div><span>🎯</span><a href="#">Live View</a> | <a href="#">Source Code</a></div>
@@ -247,7 +247,7 @@
                 <div class="title-img" align="center">
                     <img src="https://user-images.githubusercontent.com/58082952/155407728-cb413ebb-7b5c-4f17-9f2d-1529c4b1805d.jpg"
                         width="100%" alt="github" />
-                </div>
+                </div><br>
                 <div class="project-link">
                     <div><span>🎯</span><a href="#">Live View</a> | <a href="#">Source Code</a></div>
                     <div><span>🎯</span><a href="#">Live View</a> | <a href="#">Source Code</a></div>
