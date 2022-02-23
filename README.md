@@ -3,7 +3,7 @@
 **Ileriayo/ileriayo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --->  
 <font face="Verdana" color="green" weight="700">Arfan</font>
-<h1>👋 Hi, I'm ARFAN!</h1>
+<h1>👋 Hi, I'm ARFAN!</h1><hr>
 
 <table>
     <tr>
