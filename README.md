@@ -35,7 +35,7 @@
         communication. Most of the time I work with WordPress but some technologies I enjoy working with include
         ReactJS, JavaScript as well as PHP..</p><br><br>
     <div align="center">
-    <img width="30%"
+    <img width="25%"
     src="https://user-images.githubusercontent.com/58082952/155369328-4913bcfc-b08e-4435-ba27-aad6ac54997f.png"
     alt="cover-arfan" />
     </div>
