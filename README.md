@@ -1,1 +1,6 @@
-
+![cover](https://user-images.githubusercontent.com/58082952/155368524-679d12e3-beb8-41c9-bcf2-72858cd85254.jpg)
+![arfan khan](https://user-images.githubusercontent.com/58082952/155368551-cd100287-2893-460c-a2d2-857db4d17e47.png)
+![icon](https://user-images.githubusercontent.com/58082952/155368586-f7089261-45a1-481a-b0f9-bdcacf99df67.png)
+![web dev](https://user-images.githubusercontent.com/58082952/155368640-006d2ac4-5ec5-4fdb-a940-9d8c37326b53.png)
+![skill](https://user-images.githubusercontent.com/58082952/155368661-f2543f6f-af2e-4eab-94c3-ad0081639b84.png)
+![arfan khan](https://user-images.githubusercontent.com/58082952/155368674-0bf05c4d-e218-4e40-b71c-3e1df228d91e.png)
