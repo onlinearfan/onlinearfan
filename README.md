@@ -40,8 +40,8 @@
     alt="cover-arfan" />
     </div><br>
 <table >
-        <tr>
-            <td border="1">
+        <tr border="1">
+            <td>
                 <div align="center">
                     <div>
                         <img width="9%"
