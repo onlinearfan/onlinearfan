@@ -2,17 +2,43 @@
 <!--
 **Ileriayo/ileriayo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --->  
-<table border='0'>
+<table>
     <tr>
-        <td><img width="400" src="https://user-images.githubusercontent.com/58082952/141611230-f1ec133e-9144-4ee6-9c91-48ca5a95f745.jpg" alt="header"/></td>
         <td>
-            <ul>
-                <li>asfdsafadf</li>
-                <li>asfdsafadf</li>
-                <li>asfdsafadf</li>
-                <li>asfdsafadf</li>
-                <li>asfdsafadf</li>
-            </ul>
+            <img width="50"
+                src="https://user-images.githubusercontent.com/58082952/141611230-f1ec133e-9144-4ee6-9c91-48ca5a95f745.jpg"
+                alt="header" />
+                <ul>
+                    <li>asfdsafadf</li>
+                    <li>asfdsafadf</li>
+                    <li>asfdsafadf</li>
+                    <li>asfdsafadf</li>
+                    <li>asfdsafadf</li>
+                </ul>
+        </td>
+        <td>
+            <img width="50"
+                src="https://user-images.githubusercontent.com/58082952/141611230-f1ec133e-9144-4ee6-9c91-48ca5a95f745.jpg"
+                alt="header" />
+                <ul>
+                    <li>asfdsafadf</li>
+                    <li>asfdsafadf</li>
+                    <li>asfdsafadf</li>
+                    <li>asfdsafadf</li>
+                    <li>asfdsafadf</li>
+                </ul>
+        </td>
+        <td>
+            <img width="50"
+                src="https://user-images.githubusercontent.com/58082952/141611230-f1ec133e-9144-4ee6-9c91-48ca5a95f745.jpg"
+                alt="header" />
+                <ul>
+                    <li>asfdsafadf</li>
+                    <li>asfdsafadf</li>
+                    <li>asfdsafadf</li>
+                    <li>asfdsafadf</li>
+                    <li>asfdsafadf</li>
+                </ul>
         </td>
     </tr>
 </table>
