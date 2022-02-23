@@ -147,19 +147,13 @@
                 src="https://user-images.githubusercontent.com/58082952/155410306-25ed60ee-7c6b-490c-9882-e74b8b471d9b.jpg"
                 width="17%" alt="linkend" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
     </div>
-</div>
-
-    <br><br><br><br>
-    <div align="center"><img width="40%"
-        src="https://user-images.githubusercontent.com/58082952/155396600-2ce485cc-b7d9-441d-88ac-5f1ce8927b89.png"
-        alt="connect" /></div><br><br><br>
-    <table border="1">
+</div><br><br><br><br>
+<table border="1">
         <tr>
             <td width="24%">
                 <div class="title-img" align="center">
-                    <img
-                    src="https://user-images.githubusercontent.com/58082952/155407728-cb413ebb-7b5c-4f17-9f2d-1529c4b1805d.jpg"
-                    width="60%" alt="github" />
+                    <img src="https://user-images.githubusercontent.com/58082952/155407728-cb413ebb-7b5c-4f17-9f2d-1529c4b1805d.jpg"
+                        width="60%" alt="github" />
                 </div>
                 <div class="project-link">
                     <div><span>(1)</span><a href="#">Live View</a> | <a href="#">Source Code</a></div>
@@ -170,9 +164,8 @@
             </td>
             <td width="24%">
                 <div class="title-img" align="center">
-                    <img
-                    src="https://user-images.githubusercontent.com/58082952/155407728-cb413ebb-7b5c-4f17-9f2d-1529c4b1805d.jpg"
-                    width="60%" alt="github" />
+                    <img src="https://user-images.githubusercontent.com/58082952/155407728-cb413ebb-7b5c-4f17-9f2d-1529c4b1805d.jpg"
+                        width="60%" alt="github" />
                 </div>
                 <div class="project-link">
                     <div><span>(1)</span><a href="#">Live View</a> | <a href="#">Source Code</a></div>
@@ -183,9 +176,8 @@
             </td>
             <td width="24%">
                 <div class="title-img" align="center">
-                    <img
-                    src="https://user-images.githubusercontent.com/58082952/155407728-cb413ebb-7b5c-4f17-9f2d-1529c4b1805d.jpg"
-                    width="60%" alt="github" />
+                    <img src="https://user-images.githubusercontent.com/58082952/155407728-cb413ebb-7b5c-4f17-9f2d-1529c4b1805d.jpg"
+                        width="60%" alt="github" />
                 </div>
                 <div class="project-link">
                     <div><span>(1)</span><a href="#">Live View</a> | <a href="#">Source Code</a></div>
@@ -196,9 +188,8 @@
             </td>
             <td width="24%">
                 <div class="title-img" align="center">
-                    <img
-                    src="https://user-images.githubusercontent.com/58082952/155407728-cb413ebb-7b5c-4f17-9f2d-1529c4b1805d.jpg"
-                    width="60%" alt="github" />
+                    <img src="https://user-images.githubusercontent.com/58082952/155407728-cb413ebb-7b5c-4f17-9f2d-1529c4b1805d.jpg"
+                        width="60%" alt="github" />
                 </div>
                 <div class="project-link">
                     <div><span>(1)</span><a href="#">Live View</a> | <a href="#">Source Code</a></div>
@@ -211,9 +202,8 @@
         <tr>
             <td width="24%">
                 <div class="title-img" align="center">
-                    <img
-                    src="https://user-images.githubusercontent.com/58082952/155407728-cb413ebb-7b5c-4f17-9f2d-1529c4b1805d.jpg"
-                    width="60%" alt="github" />
+                    <img src="https://user-images.githubusercontent.com/58082952/155407728-cb413ebb-7b5c-4f17-9f2d-1529c4b1805d.jpg"
+                        width="60%" alt="github" />
                 </div>
                 <div class="project-link">
                     <div><span>(1)</span><a href="#">Live View</a> | <a href="#">Source Code</a></div>
@@ -224,9 +214,8 @@
             </td>
             <td width="24%">
                 <div class="title-img" align="center">
-                    <img
-                    src="https://user-images.githubusercontent.com/58082952/155407728-cb413ebb-7b5c-4f17-9f2d-1529c4b1805d.jpg"
-                    width="60%" alt="github" />
+                    <img src="https://user-images.githubusercontent.com/58082952/155407728-cb413ebb-7b5c-4f17-9f2d-1529c4b1805d.jpg"
+                        width="60%" alt="github" />
                 </div>
                 <div class="project-link">
                     <div><span>(1)</span><a href="#">Live View</a> | <a href="#">Source Code</a></div>
@@ -237,9 +226,8 @@
             </td>
             <td width="24%">
                 <div class="title-img" align="center">
-                    <img
-                    src="https://user-images.githubusercontent.com/58082952/155407728-cb413ebb-7b5c-4f17-9f2d-1529c4b1805d.jpg"
-                    width="60%" alt="github" />
+                    <img src="https://user-images.githubusercontent.com/58082952/155407728-cb413ebb-7b5c-4f17-9f2d-1529c4b1805d.jpg"
+                        width="60%" alt="github" />
                 </div>
                 <div class="project-link">
                     <div><span>(1)</span><a href="#">Live View</a> | <a href="#">Source Code</a></div>
@@ -250,9 +238,8 @@
             </td>
             <td width="24%">
                 <div class="title-img" align="center">
-                    <img
-                    src="https://user-images.githubusercontent.com/58082952/155407728-cb413ebb-7b5c-4f17-9f2d-1529c4b1805d.jpg"
-                    width="60%" alt="github" />
+                    <img src="https://user-images.githubusercontent.com/58082952/155407728-cb413ebb-7b5c-4f17-9f2d-1529c4b1805d.jpg"
+                        width="60%" alt="github" />
                 </div>
                 <div class="project-link">
                     <div><span>(1)</span><a href="#">Live View</a> | <a href="#">Source Code</a></div>
