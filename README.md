@@ -11,7 +11,7 @@
     </div>
 </div><br><br>
 <img width="100%"
-    src="https://user-images.githubusercontent.com/58082952/155369265-9c47fbf7-e93f-45a7-96e9-ce02c5d28b9d.jpg"
+    src="https://user-images.githubusercontent.com/58082952/155396000-063b929e-9358-42f2-88e4-3c9f4ff29714.jpg"
     alt="cover-arfan" /><br><br>
     
 
