@@ -23,7 +23,7 @@ I’m a Full Stack Web developer who is passionate about making error-free websi
 <h1> 😍 Arfan Khan</h1>
 <h1 align="center"> 👋 </h1>
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/58082952/141611230-f1ec133e-9144-4ee6-9c91-48ca5a95f745" alt="header"/>
+  (https://user-images.githubusercontent.com/58082952/141611230-f1ec133e-9144-4ee6-9c91-48ca5a95f745.jpg)
 </div>
 <p align="center"> (Open for Hiring)</p>
 
