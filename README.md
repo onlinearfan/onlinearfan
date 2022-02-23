@@ -4,11 +4,7 @@
 --->  
 
 
-<video width="320" height="240" poster="/images/w3schools_green.jpg" controls>
-   <source src="https://www.youtube.com/watch?v=GZeRa5pLses" type="video/mp4">
-   <source src="https://www.youtube.com/watch?v=GZeRa5pLses" type="video/ogg">
-   Your browser does not support the video tag.
-</video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vk7ADZfnSE4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <table>
     <tr>
         <th>
