@@ -2,9 +2,7 @@
 <!--
 **Ileriayo/ileriayo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --->  
-<font size="6"
-          face="verdana"
-          color="green">
+<font size="66" color="red">
             GeeksforGeeks!
         </font>
 <table border="2" width="720">
