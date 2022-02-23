@@ -149,7 +149,7 @@
         <a href="mailto:ileriayoadebiyi@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img
                 src="https://user-images.githubusercontent.com/58082952/155407728-cb413ebb-7b5c-4f17-9f2d-1529c4b1805d.jpg"
                 width="17%" alt="github" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    </div>
+    </div><br>
     <div class="link-2">
         <a href="mailto:ileriayoadebiyi@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img
                 src="https://user-images.githubusercontent.com/58082952/155407734-b0d62337-9fcc-42da-8d01-cbd8f215a135.jpg"
