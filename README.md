@@ -19,7 +19,7 @@
 
 <div>
     <div align="center">
-        <img width="40%"
+        <img width="45%"
             src="https://user-images.githubusercontent.com/58082952/155396493-95a15078-9e34-4c48-817e-ef486af065a5.png"
             alt="professional-webdev" />
     </div><br><br><br>
@@ -35,7 +35,7 @@
         communication. Most of the time I work with WordPress but some technologies I enjoy working with include
         ReactJS, JavaScript as well as PHP..</p><br><br>
     <div align="center">
-    <img width="27%"
+    <img width="35%"
     src="https://user-images.githubusercontent.com/58082952/155396554-f5d19743-0dd7-48c5-89bc-c74bab330097.png"
     alt="cover-arfan" />
     </div><br><br><br>
@@ -111,7 +111,7 @@
     </table>
  <br><br>
 <div align="center">
-        <img width="40%"
+        <img width="45%"
             src="https://user-images.githubusercontent.com/58082952/155396600-2ce485cc-b7d9-441d-88ac-5f1ce8927b89.png"
             alt="connect" />
     </div><br><br><br>
