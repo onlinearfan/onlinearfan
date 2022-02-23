@@ -115,24 +115,7 @@
             src="https://user-images.githubusercontent.com/58082952/155396600-2ce485cc-b7d9-441d-88ac-5f1ce8927b89.png"
             alt="connect" />
     </div><br><br><br>
-      <div align="center">
-        <a target="_blank" href="https://www.linkedin.com/in/ileriayo-adebiyi-0328b1101/"><img
-                src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-        <a target="_blank" href="https://twitter.com/ileriayooo"><img
-                src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-        <a href="mailto:ileriayoadebiyi@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img
-                src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    </div>
     <div>
-    <a target="_blank" href="https://www.linkedin.com/in/ileriayo-adebiyi-0328b1101/"><img
-            src="https://user-images.githubusercontent.com/58082952/155407719-87e24d90-ae77-4240-9e21-61c0918b2b07.jpg" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a target="_blank" href="https://twitter.com/ileriayooo"><img
-            src="https://user-images.githubusercontent.com/58082952/155407722-7eae866e-ab5f-430a-8d5d-78e34f353296.jpg" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="mailto:ileriayoadebiyi@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img
-            src="https://user-images.githubusercontent.com/58082952/155407725-21b7cbda-510a-4b7e-b14f-c1b0f02853e3.jpg" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</div>
-<br><br><br>
-<div>
     <div class="link-1">
         <a target="_blank" href="https://www.linkedin.com/in/ileriayo-adebiyi-0328b1101/"><img
                 src="https://user-images.githubusercontent.com/58082952/155407719-87e24d90-ae77-4240-9e21-61c0918b2b07.jpg"
@@ -166,3 +149,6 @@
     </div>
 </div>
 
+
+      
+    
