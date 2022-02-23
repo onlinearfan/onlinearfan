@@ -1,6 +1,6 @@
 <div align="center" class="Profile Title">
     <div>
-        <img width="15%"
+        <img width="10%"
             src="https://user-images.githubusercontent.com/58082952/155369285-c3a35355-2ff0-4c04-9245-caea050be9f8.png"
             alt="icon" />
     </div>
