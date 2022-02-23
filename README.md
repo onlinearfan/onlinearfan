@@ -148,7 +148,7 @@
                 width="17%" alt="linkend" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
     </div>
 </div><br><br><br><br>
-<table border="1">
+    <table border="1">
         <tr>
             <td width="24%">
                 <div class="title-img" align="center">
@@ -156,10 +156,10 @@
                         width="60%" alt="github" />
                 </div>
                 <div class="project-link">
-                    <div><span>(1)</span><a href="#">Live View</a> | <a href="#">Source Code</a></div>
-                    <div><span>(1)</span><a href="#">Live View</a> | <a href="#">Source Code</a></div>
-                    <div><span>(1)</span><a href="#">Live View</a> | <a href="#">Source Code</a></div>
-                    <div><span>(1)</span><a href="#">Live View</a> | <a href="#">Source Code</a></div>
+                    <div><span>🎯</span><a href="#">Live View</a> | <a href="#">Source Code</a></div>
+                    <div><span>🎯</span><a href="#">Live View</a> | <a href="#">Source Code</a></div>
+                    <div><span>🎯</span><a href="#">Live View</a> | <a href="#">Source Code</a></div>
+                    <div><span>🎯</span><a href="#">Live View</a> | <a href="#">Source Code</a></div>
                 </div>
             </td>
             <td width="24%">
@@ -168,10 +168,10 @@
                         width="60%" alt="github" />
                 </div>
                 <div class="project-link">
-                    <div><span>(1)</span><a href="#">Live View</a> | <a href="#">Source Code</a></div>
-                    <div><span>(1)</span><a href="#">Live View</a> | <a href="#">Source Code</a></div>
-                    <div><span>(1)</span><a href="#">Live View</a> | <a href="#">Source Code</a></div>
-                    <div><span>(1)</span><a href="#">Live View</a> | <a href="#">Source Code</a></div>
+                    <div><span>🎯</span><a href="#">Live View</a> | <a href="#">Source Code</a></div>
+                    <div><span>🎯</span><a href="#">Live View</a> | <a href="#">Source Code</a></div>
+                    <div><span>🎯</span><a href="#">Live View</a> | <a href="#">Source Code</a></div>
+                    <div><span>🎯</span><a href="#">Live View</a> | <a href="#">Source Code</a></div>
                 </div>
             </td>
             <td width="24%">
@@ -180,10 +180,10 @@
                         width="60%" alt="github" />
                 </div>
                 <div class="project-link">
-                    <div><span>(1)</span><a href="#">Live View</a> | <a href="#">Source Code</a></div>
-                    <div><span>(1)</span><a href="#">Live View</a> | <a href="#">Source Code</a></div>
-                    <div><span>(1)</span><a href="#">Live View</a> | <a href="#">Source Code</a></div>
-                    <div><span>(1)</span><a href="#">Live View</a> | <a href="#">Source Code</a></div>
+                    <div><span>🎯</span><a href="#">Live View</a> | <a href="#">Source Code</a></div>
+                    <div><span>🎯</span><a href="#">Live View</a> | <a href="#">Source Code</a></div>
+                    <div><span>🎯</span><a href="#">Live View</a> | <a href="#">Source Code</a></div>
+                    <div><span>🎯</span><a href="#">Live View</a> | <a href="#">Source Code</a></div>
                 </div>
             </td>
             <td width="24%">
@@ -192,10 +192,10 @@
                         width="60%" alt="github" />
                 </div>
                 <div class="project-link">
-                    <div><span>(1)</span><a href="#">Live View</a> | <a href="#">Source Code</a></div>
-                    <div><span>(1)</span><a href="#">Live View</a> | <a href="#">Source Code</a></div>
-                    <div><span>(1)</span><a href="#">Live View</a> | <a href="#">Source Code</a></div>
-                    <div><span>(1)</span><a href="#">Live View</a> | <a href="#">Source Code</a></div>
+                    <div><span>🎯</span><a href="#">Live View</a> | <a href="#">Source Code</a></div>
+                    <div><span>🎯</span><a href="#">Live View</a> | <a href="#">Source Code</a></div>
+                    <div><span>🎯</span><a href="#">Live View</a> | <a href="#">Source Code</a></div>
+                    <div><span>🎯</span><a href="#">Live View</a> | <a href="#">Source Code</a></div>
                 </div>
             </td>
         </tr>
@@ -206,10 +206,10 @@
                         width="60%" alt="github" />
                 </div>
                 <div class="project-link">
-                    <div><span>(1)</span><a href="#">Live View</a> | <a href="#">Source Code</a></div>
-                    <div><span>(1)</span><a href="#">Live View</a> | <a href="#">Source Code</a></div>
-                    <div><span>(1)</span><a href="#">Live View</a> | <a href="#">Source Code</a></div>
-                    <div><span>(1)</span><a href="#">Live View</a> | <a href="#">Source Code</a></div>
+                    <div><span>🎯</span><a href="#">Live View</a> | <a href="#">Source Code</a></div>
+                    <div><span>🎯</span><a href="#">Live View</a> | <a href="#">Source Code</a></div>
+                    <div><span>🎯</span><a href="#">Live View</a> | <a href="#">Source Code</a></div>
+                    <div><span>🎯</span><a href="#">Live View</a> | <a href="#">Source Code</a></div>
                 </div>
             </td>
             <td width="24%">
@@ -218,10 +218,10 @@
                         width="60%" alt="github" />
                 </div>
                 <div class="project-link">
-                    <div><span>(1)</span><a href="#">Live View</a> | <a href="#">Source Code</a></div>
-                    <div><span>(1)</span><a href="#">Live View</a> | <a href="#">Source Code</a></div>
-                    <div><span>(1)</span><a href="#">Live View</a> | <a href="#">Source Code</a></div>
-                    <div><span>(1)</span><a href="#">Live View</a> | <a href="#">Source Code</a></div>
+                    <div><span>🎯</span><a href="#">Live View</a> | <a href="#">Source Code</a></div>
+                    <div><span>🎯</span><a href="#">Live View</a> | <a href="#">Source Code</a></div>
+                    <div><span>🎯</span><a href="#">Live View</a> | <a href="#">Source Code</a></div>
+                    <div><span>🎯</span><a href="#">Live View</a> | <a href="#">Source Code</a></div>
                 </div>
             </td>
             <td width="24%">
@@ -230,10 +230,10 @@
                         width="60%" alt="github" />
                 </div>
                 <div class="project-link">
-                    <div><span>(1)</span><a href="#">Live View</a> | <a href="#">Source Code</a></div>
-                    <div><span>(1)</span><a href="#">Live View</a> | <a href="#">Source Code</a></div>
-                    <div><span>(1)</span><a href="#">Live View</a> | <a href="#">Source Code</a></div>
-                    <div><span>(1)</span><a href="#">Live View</a> | <a href="#">Source Code</a></div>
+                    <div><span>🎯</span><a href="#">Live View</a> | <a href="#">Source Code</a></div>
+                    <div><span>🎯</span><a href="#">Live View</a> | <a href="#">Source Code</a></div>
+                    <div><span>🎯</span><a href="#">Live View</a> | <a href="#">Source Code</a></div>
+                    <div><span>🎯</span><a href="#">Live View</a> | <a href="#">Source Code</a></div>
                 </div>
             </td>
             <td width="24%">
@@ -242,10 +242,10 @@
                         width="60%" alt="github" />
                 </div>
                 <div class="project-link">
-                    <div><span>(1)</span><a href="#">Live View</a> | <a href="#">Source Code</a></div>
-                    <div><span>(1)</span><a href="#">Live View</a> | <a href="#">Source Code</a></div>
-                    <div><span>(1)</span><a href="#">Live View</a> | <a href="#">Source Code</a></div>
-                    <div><span>(1)</span><a href="#">Live View</a> | <a href="#">Source Code</a></div>
+                    <div><span>🎯</span><a href="#">Live View</a> | <a href="#">Source Code</a></div>
+                    <div><span>🎯</span><a href="#">Live View</a> | <a href="#">Source Code</a></div>
+                    <div><span>🎯</span><a href="#">Live View</a> | <a href="#">Source Code</a></div>
+                    <div><span>🎯</span><a href="#">Live View</a> | <a href="#">Source Code</a></div>
                 </div>
             </td>
         </tr>
