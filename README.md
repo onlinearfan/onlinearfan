@@ -39,9 +39,9 @@
     src="https://user-images.githubusercontent.com/58082952/155396554-f5d19743-0dd7-48c5-89bc-c74bab330097.png"
     alt="cover-arfan" />
     </div><br>
-    <table border="2">
+    <table border="1">
         <tr>
-            <td><br>
+            <td >
                 <div align="center">
                     <div>
                         <img width="8%"
@@ -86,8 +86,25 @@
                         <img width="8%"
                             src="https://user-images.githubusercontent.com/58082952/155397424-fe1b9d85-4349-43be-8e88-8e7c62cdc639.png"
                             alt="github" />&nbsp;&nbsp;&nbsp;&nbsp;
+                        <img width="8%"
+                            src="https://user-images.githubusercontent.com/58082952/155397448-d53051aa-f4a3-434c-b059-a4394f4dc320.png"
+                            alt="photoshop" />&nbsp;&nbsp;&nbsp;&nbsp;
+                        <img width="8%"
+                            src="https://user-images.githubusercontent.com/58082952/155397484-d5be06f3-2f67-40cb-a579-82645075cdd1.png"
+                            alt="xd" />&nbsp;&nbsp;&nbsp;&nbsp;
+                        <img width="8%"
+                            src="https://user-images.githubusercontent.com/58082952/155397493-8d148d0c-0977-495c-8892-97739fd76f93.png"
+                            alt="illastrator" />&nbsp;&nbsp;&nbsp;&nbsp;
                     </div>
-                </div><br>
+                    <div>
+                        <img width="8%"
+                            src="https://user-images.githubusercontent.com/58082952/155397524-9975b385-b4a0-473e-9810-918ac6ef43e3.png"
+                            alt="powerpoint" />&nbsp;&nbsp;&nbsp;&nbsp;
+                        <img width="8%"
+                            src="https://user-images.githubusercontent.com/58082952/155397533-8d27ebe7-53ee-4065-86b8-e03369b5e835.png"
+                            alt="xl" />&nbsp;&nbsp;&nbsp;&nbsp;
+                    </div>
+                </div>
             </td>
         </tr>
     </table>
