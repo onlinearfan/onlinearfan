@@ -9,10 +9,10 @@
             src="https://user-images.githubusercontent.com/58082952/155396585-b72fc473-e6d9-43b4-8172-95858e7ba865.png"
             alt="arfan-khan" />
     </div>
-</div><br><br>
+</div><br><br><br>
 <img width="100%"
     src="https://user-images.githubusercontent.com/58082952/155396000-063b929e-9358-42f2-88e4-3c9f4ff29714.jpg"
-    alt="cover-arfan" /><br><br>
+    alt="cover-arfan" /><br><br><br>
     
 
     
@@ -22,7 +22,7 @@
         <img width="40%"
             src="https://user-images.githubusercontent.com/58082952/155396493-95a15078-9e34-4c48-817e-ef486af065a5.png"
             alt="professional-webdev" />
-    </div><br><br>
+    </div><br><br><br>
     <b>👑 I'm an aspiring 🔭️ Web Developer currently learning 🌱 Nodejs deeply.</b><br>
     <b>🖊️ I'm a quick learner & I love to learn new 💻 Technologies.</b><br>
     <b>🎤 Like to share my knowledge</b><br>
@@ -38,7 +38,7 @@
     <img width="27%"
     src="https://user-images.githubusercontent.com/58082952/155396554-f5d19743-0dd7-48c5-89bc-c74bab330097.png"
     alt="cover-arfan" />
-    </div><br>
+    </div><br><br><br>
     <table border="1">
         <tr>
             <td >
@@ -114,7 +114,7 @@
         <img width="40%"
             src="https://user-images.githubusercontent.com/58082952/155396600-2ce485cc-b7d9-441d-88ac-5f1ce8927b89.png"
             alt="connect" />
-    </div> <br><br>
+    </div><br><br><br>
       <div align="center">
         <a target="_blank" href="https://www.linkedin.com/in/ileriayo-adebiyi-0328b1101/"><img
                 src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
