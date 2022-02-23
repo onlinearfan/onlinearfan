@@ -3,11 +3,11 @@
 <img width="100%"
                 src="https://user-images.githubusercontent.com/58082952/141611230-f1ec133e-9144-4ee6-9c91-48ca5a95f745.jpg"
                 alt="header" />
-<h3>👑 I'm an aspiring 🔭️ Web Developer currently learning 🌱 Nodejs deeply.</h3>
-<h3>🖊️ I'm a quick learner & I love to learn new 💻 Technologies.</h3>
-<h3>🎤 Like to share my knowledge</h3>
-<h3>I always love working in Visual Studio Code .</h3>
-<h3>💻 I've a soft corner for Wordpress and I can do some help with wordpress too.</h3>
+<b>👑 I'm an aspiring 🔭️ Web Developer currently learning 🌱 Nodejs deeply.</b>
+<b>🖊️ I'm a quick learner & I love to learn new 💻 Technologies.</b>
+<b>🎤 Like to share my knowledge</b>
+<b>I always love working in Visual Studio Code .</b>
+<b>💻 I've a soft corner for Wordpress and I can do some help with wordpress too.</b>
 
 
 # 👋 Hi, I'm ARFAN!
