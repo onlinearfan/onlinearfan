@@ -39,8 +39,8 @@
     src="https://user-images.githubusercontent.com/58082952/155369328-4913bcfc-b08e-4435-ba27-aad6ac54997f.png"
     alt="cover-arfan" />
     </div><br>
-<table >
-        <tr border="1">
+<table  border="1">
+        <tr>
             <td>
                 <div align="center">
                     <div>
