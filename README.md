@@ -6,7 +6,7 @@
     </div>
     <div>
         <img width="50%"
-            src="https://user-images.githubusercontent.com/58082952/155369301-0a130178-d4b4-4e99-8898-58d2594526c6.png"
+            src="https://user-images.githubusercontent.com/58082952/155396585-b72fc473-e6d9-43b4-8172-95858e7ba865.png"
             alt="arfan-khan" />
     </div>
 </div><br><br>
@@ -20,7 +20,7 @@
 <div>
     <div align="center">
         <img width="40%"
-            src="https://user-images.githubusercontent.com/58082952/155369347-852ab84f-f384-49ba-8f67-62465a787307.png"
+            src="https://user-images.githubusercontent.com/58082952/155396615-b1341891-8554-4ba6-9590-9811f8b3b1e7.png"
             alt="professional-webdev" />
     </div><br><br>
     <b>👑 I'm an aspiring 🔭️ Web Developer currently learning 🌱 Nodejs deeply.</b><br>
@@ -36,7 +36,7 @@
         ReactJS, JavaScript as well as PHP..</p><br><br>
     <div align="center">
     <img width="27%"
-    src="https://user-images.githubusercontent.com/58082952/155369328-4913bcfc-b08e-4435-ba27-aad6ac54997f.png"
+    src="https://user-images.githubusercontent.com/58082952/155396554-f5d19743-0dd7-48c5-89bc-c74bab330097.png"
     alt="cover-arfan" />
     </div><br>
 <table  border="1">
@@ -94,7 +94,7 @@
  <br><br>
 <div align="center">
         <img width="40%"
-            src="https://user-images.githubusercontent.com/58082952/155369310-64f474c2-a0c1-413b-99ba-f34aa27b439b.png"
+            src="https://user-images.githubusercontent.com/58082952/155396600-2ce485cc-b7d9-441d-88ac-5f1ce8927b89.png"
             alt="connect" />
     </div> <br><br>
       <div align="center">
