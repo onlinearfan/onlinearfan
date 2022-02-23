@@ -8,6 +8,12 @@
 <b>🎤 Like to share my knowledge</b><br>
 <b>🎫I always love working in Visual Studio Code .</b><br>
 <b>💻 I've a soft corner for Wordpress and I can do some help with wordpress too.</b><br>
+<p align="center">
+  <samp>A highly resourceful computer programmer and well-rounded IT professional with over five years of computing experience, possessing expert knowledge of the software development lifecycle and a solid understanding of technologies required for the development and deployment of highly available and scalable applications, including their networks and infrastructure.
+  </samp>
+  <br> <br>
+  <img src="https://komarev.com/ghpvc/?username=ileriayo" alt="https://github.com/ileriayo.jpg" />
+</p>
 
 
 
