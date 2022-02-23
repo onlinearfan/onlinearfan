@@ -131,30 +131,31 @@
     <a href="mailto:ileriayoadebiyi@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img
             src="https://user-images.githubusercontent.com/58082952/155407725-21b7cbda-510a-4b7e-b14f-c1b0f02853e3.jpg" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
+<br><br><br>
 <div>
     <div class="link-1">
         <a target="_blank" href="https://www.linkedin.com/in/ileriayo-adebiyi-0328b1101/"><img
                 src="https://user-images.githubusercontent.com/58082952/155407719-87e24d90-ae77-4240-9e21-61c0918b2b07.jpg"
-                width="20%" alt="youtube" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+                width="17%" alt="youtube" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
         <a target="_blank" href="https://twitter.com/ileriayooo"><img
                 src="https://user-images.githubusercontent.com/58082952/155407722-7eae866e-ab5f-430a-8d5d-78e34f353296.jpg"
-                width="20%" alt="gmail" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+                width="17%" alt="gmail" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
         <a href="mailto:ileriayoadebiyi@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img
                 src="https://user-images.githubusercontent.com/58082952/155407725-21b7cbda-510a-4b7e-b14f-c1b0f02853e3.jpg"
-                width="20%" alt="twitter" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+                width="17%" alt="twitter" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
         <a href="mailto:ileriayoadebiyi@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img
                 src="https://user-images.githubusercontent.com/58082952/155407716-b2fada56-bc8c-4f8b-97f5-ff4f6686e2cf.jpg"
-                width="20%" alt="dribble" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+                width="17%" alt="dribble" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
         <a href="mailto:ileriayoadebiyi@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img
                 src="https://user-images.githubusercontent.com/58082952/155407728-cb413ebb-7b5c-4f17-9f2d-1529c4b1805d.jpg"
-                width="20%" alt="github" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+                width="17%" alt="github" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
     </div>
     <div class="link-2">
         <a href="mailto:ileriayoadebiyi@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img
                 src="https://user-images.githubusercontent.com/58082952/155407734-b0d62337-9fcc-42da-8d01-cbd8f215a135.jpg"
-                width="20%" alt="behance" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+                width="17%" alt="behance" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
         <a href="mailto:ileriayoadebiyi@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img
                 src="https://user-images.githubusercontent.com/58082952/155407731-eef65949-5926-4505-b1eb-f5eaddc97d1b.jpg"
-                width="20%" alt="fb" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+                width="17%" alt="fb" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
     </div>
 </div>
