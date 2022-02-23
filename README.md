@@ -1,21 +1,14 @@
 <h1>👋 Hi, I'm ARFAN!</h1>
 <img width="100%"
-                src="https://user-images.githubusercontent.com/58082952/141611230-f1ec133e-9144-4ee6-9c91-48ca5a95f745.jpg"
-                alt="header" />
+    src="https://user-images.githubusercontent.com/58082952/141611230-f1ec133e-9144-4ee6-9c91-48ca5a95f745.jpg"
+    alt="header" />
 <h2>A Professional Full Stack Web Developer.</h2>
 <b>👑 I'm an aspiring 🔭️ Web Developer currently learning 🌱 Nodejs deeply.</b><br>
 <b>🖊️ I'm a quick learner & I love to learn new 💻 Technologies.</b><br>
 <b>🎤 Like to share my knowledge</b><br>
 <b>🎫I always love working in Visual Studio Code .</b><br>
 <b>💻 I've a soft corner for Wordpress and I can do some help with wordpress too.</b><br>
-<p align="center">
-  <samp>A highly resourceful computer programmer and well-rounded IT professional with over five years of computing experience, possessing expert knowledge of the software development lifecycle and a solid understanding of technologies required for the development and deployment of highly available and scalable applications, including their networks and infrastructure.
-  </samp>
-  <br> <br>
-  <img src="https://komarev.com/ghpvc/?username=ileriayo" alt="https://github.com/ileriayo.jpg" />
-</p>
-
-
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum vel numquam minus dolor enim voluptatibus pariatur aperiam voluptatum perspiciatis assumenda. Natus id voluptate voluptates quisquam quod quis fugit eaque possimus dolores doloribus sapiente quam eveniet, assumenda culpa libero. Excepturi ipsa veniam dolore necessitatibus libero incidunt voluptate temporibus quam aliquid perferendis consectetur vitae quis laboriosam quod nesciunt voluptatem dignissimos rerum cumque distinctio itaque, magnam exercitationem. Itaque animi velit suscipit praesentium. Voluptatum perspiciatis reprehenderit natus ab omnis voluptatibus ducimus suscipit facilis itaque officiis animi quam voluptas eveniet commodi dolor rem illo, fugit atque! Similique, deserunt officiis accusantium maiores saepe perferendis. Facilis, odit.</p>
 
 # 👋 Hi, I'm ARFAN!
 <!--
