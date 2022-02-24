@@ -27,7 +27,7 @@
     <b>👨🏾‍💻 Learing is fun for me. I always l💘ve to learn new 💻 Technologies.</b><br>
     <b>🎫 My Favourite Code Editor is Visual Studio Code ⌨️.</b><br>
     <b>🎤 Love to share my knowledge.</b><br>
-    <b>💻 I've also a Very Good knowledge about Wordpress.Once upon a time wordpress was my 😋 Dirling.</b><br><br>
+    <b>💻 I've also a Very Good knowledge about Wordpress.Once upon a time wordpress was my 😋 Dirling.</b><br><br><br>
     <p>I’m a <b>Full Stack Web Developer😎</b> who is passionate about making attracting and error-free websites with
         100% client satisfaction.I have pretty good knowledge about <b>MERN STACK Development 🌱</b>.I have also made
         some beautiful project with <b>Wordpress</b> and <b>Laravel</b>.I have a passion for learning and sharing my
