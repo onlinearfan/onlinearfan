@@ -172,10 +172,10 @@
                     width="100%" alt="html-css-js" />
             </div><br>
             <div class="project-link">
-                <div><span>🎯</span><a href="#">Live View</a> | <a href="#">Source Code</a></div>
-                <div><span>🎯</span><a href="#">Live View</a> | <a href="#">Source Code</a></div>
-                <div><span>🎯</span><a href="#">Live View</a> | <a href="#">Source Code</a></div>
-                <div><span>🎯</span><a href="#">Live View</a> | <a href="#">Source Code</a></div>
+                <div><span>🎯 </span><a href="#">Project Name</a></div>
+                <div><span>🎯 </span><a href="#">Project Name</a></div>
+                <div><span>🎯 </span><a href="#">Project Name</a></div>
+                <div><span>🎯 </span><a href="#">Project Name</a></div>
             </div>
         </td>
         <td width="24%">
@@ -184,10 +184,10 @@
                     width="100%" alt="react" />
             </div><br>
             <div class="project-link">
-                <div><span>🎯</span><a href="#">Live View</a> | <a href="#">Source Code</a></div>
-                <div><span>🎯</span><a href="#">Live View</a> | <a href="#">Source Code</a></div>
-                <div><span>🎯</span><a href="#">Live View</a> | <a href="#">Source Code</a></div>
-                <div><span>🎯</span><a href="#">Live View</a> | <a href="#">Source Code</a></div>
+                <div><span>🎯 </span><a href="#">Project Name</a></div>
+                <div><span>🎯 </span><a href="#">Project Name</a></div>
+                <div><span>🎯 </span><a href="#">Project Name</a></div>
+                <div><span>🎯 </span><a href="#">Project Name</a></div>
             </div>
         </td>
         <td width="24%">
@@ -196,10 +196,10 @@
                     width="100%" alt="mern" />
             </div><br>
             <div class="project-link">
-                <div><span>🎯</span><a href="#">Live View</a> | <a href="#">Source Code</a></div>
-                <div><span>🎯</span><a href="#">Live View</a> | <a href="#">Source Code</a></div>
-                <div><span>🎯</span><a href="#">Live View</a> | <a href="#">Source Code</a></div>
-                <div><span>🎯</span><a href="#">Live View</a> | <a href="#">Source Code</a></div>
+                <div><span>🎯 </span><a href="#">Project Name</a></div>
+                <div><span>🎯 </span><a href="#">Project Name</a></div>
+                <div><span>🎯 </span><a href="#">Project Name</a></div>
+                <div><span>🎯 </span><a href="#">Project Name</a></div>
             </div>
         </td>
         <td width="24%">
@@ -208,10 +208,10 @@
                     width="100%" alt="php" />
             </div><br>
             <div class="project-link">
-                <div><span>🎯</span><a href="#">Live View</a> | <a href="#">Source Code</a></div>
-                <div><span>🎯</span><a href="#">Live View</a> | <a href="#">Source Code</a></div>
-                <div><span>🎯</span><a href="#">Live View</a> | <a href="#">Source Code</a></div>
-                <div><span>🎯</span><a href="#">Live View</a> | <a href="#">Source Code</a></div>
+                <div><span>🎯 </span><a href="#">Project Name</a></div>
+                <div><span>🎯 </span><a href="#">Project Name</a></div>
+                <div><span>🎯 </span><a href="#">Project Name</a></div>
+                <div><span>🎯 </span><a href="#">Project Name</a></div>
             </div>
         </td>
     </tr>
@@ -222,10 +222,10 @@
                     width="100%" alt="laravel" />
             </div><br>
             <div class="project-link">
-                <div><span>🎯</span><a href="#">Live View</a> | <a href="#">Source Code</a></div>
-                <div><span>🎯</span><a href="#">Live View</a> | <a href="#">Source Code</a></div>
-                <div><span>🎯</span><a href="#">Live View</a> | <a href="#">Source Code</a></div>
-                <div><span>🎯</span><a href="#">Live View</a> | <a href="#">Source Code</a></div>
+                <div><span>🎯 </span><a href="#">Project Name</a></div>
+                <div><span>🎯 </span><a href="#">Project Name</a></div>
+                <div><span>🎯 </span><a href="#">Project Name</a></div>
+                <div><span>🎯 </span><a href="#">Project Name</a></div>
             </div>
         </td>
         <td width="24%">
@@ -234,34 +234,34 @@
                     width="100%" alt="wp" />
             </div><br>
             <div class="project-link">
-                <div><span>🎯</span><a href="#">Live View</a> | <a href="#">Source Code</a></div>
-                <div><span>🎯</span><a href="#">Live View</a> | <a href="#">Source Code</a></div>
-                <div><span>🎯</span><a href="#">Live View</a> | <a href="#">Source Code</a></div>
-                <div><span>🎯</span><a href="#">Live View</a> | <a href="#">Source Code</a></div>
+                <div><span>🎯 </span><a href="#">Project Name</a></div>
+                <div><span>🎯 </span><a href="#">Project Name</a></div>
+                <div><span>🎯 </span><a href="#">Project Name</a></div>
+                <div><span>🎯 </span><a href="#">Project Name</a></div>
             </div>
         </td>
         <td width="24%">
             <div class="title-img" align="center">
-                <img src="https://user-images.githubusercontent.com/58082952/155407728-cb413ebb-7b5c-4f17-9f2d-1529c4b1805d.jpg"
-                    width="100%" alt="github" />
+                <img src="https://user-images.githubusercontent.com/58082952/155419625-8b8deb81-089b-4090-a9c6-99519b933827.jpg"
+                    width="100%" alt="mern" />
             </div><br>
             <div class="project-link">
-                <div><span>🎯</span><a href="#">Live View</a> | <a href="#">Source Code</a></div>
-                <div><span>🎯</span><a href="#">Live View</a> | <a href="#">Source Code</a></div>
-                <div><span>🎯</span><a href="#">Live View</a> | <a href="#">Source Code</a></div>
-                <div><span>🎯</span><a href="#">Live View</a> | <a href="#">Source Code</a></div>
+                <div><span>🎯 </span><a href="#">Project Name</a></div>
+                <div><span>🎯 </span><a href="#">Project Name</a></div>
+                <div><span>🎯 </span><a href="#">Project Name</a></div>
+                <div><span>🎯 </span><a href="#">Project Name</a></div>
             </div>
         </td>
         <td width="24%">
             <div class="title-img" align="center">
-                <img src="https://user-images.githubusercontent.com/58082952/155407728-cb413ebb-7b5c-4f17-9f2d-1529c4b1805d.jpg"
-                    width="100%" alt="github" />
+                <img src="https://user-images.githubusercontent.com/58082952/155419631-3179f80f-b915-48ed-a9d8-087a62024173.jpg"
+                    width="100%" alt="laravel" />
             </div><br>
             <div class="project-link">
-                <div><span>🎯</span><a href="#">Live View</a> | <a href="#">Source Code</a></div>
-                <div><span>🎯</span><a href="#">Live View</a> | <a href="#">Source Code</a></div>
-                <div><span>🎯</span><a href="#">Live View</a> | <a href="#">Source Code</a></div>
-                <div><span>🎯</span><a href="#">Live View</a> | <a href="#">Source Code</a></div>
+                <div><span>🎯 </span><a href="#">Project Name</a></div>
+                <div><span>🎯 </span><a href="#">Project Name</a></div>
+                <div><span>🎯 </span><a href="#">Project Name</a></div>
+                <div><span>🎯 </span><a href="#">Project Name</a></div>
             </div>
         </td>
     </tr>
