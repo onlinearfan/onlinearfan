@@ -92,7 +92,7 @@
                         <img width="8%"
                             src="https://user-images.githubusercontent.com/58082952/155397493-8d148d0c-0977-495c-8892-97739fd76f93.png"
                             alt="illastrator" />&nbsp;&nbsp;&nbsp;&nbsp;
-                    <br><br><br>
+                    <br><br>
                         <img width="8%"
                             src="https://user-images.githubusercontent.com/58082952/155397524-9975b385-b4a0-473e-9810-918ac6ef43e3.png"
                             alt="powerpoint" />&nbsp;&nbsp;&nbsp;&nbsp;
