@@ -103,22 +103,30 @@
                 <img width="8%"
                     src="https://user-images.githubusercontent.com/58082952/155397533-8d27ebe7-53ee-4065-86b8-e03369b5e835.png"
                     alt="xl" />&nbsp;&nbsp;&nbsp;&nbsp;
-                <img width="8%" src="https://user-images.githubusercontent.com/58082952/155746296-f7d14f9a-6dd7-42cb-a8e2-257a735cf030.png"
+                <img width="8%"
+                    src="https://user-images.githubusercontent.com/58082952/155746296-f7d14f9a-6dd7-42cb-a8e2-257a735cf030.png"
                     alt="CC_20210911_034034">&nbsp;&nbsp;&nbsp;&nbsp;
-                <img width="8%" src="https://user-images.githubusercontent.com/58082952/155746299-279c40ed-1dec-4220-96d7-b0928877cd8d.png"
+                <img width="8%"
+                    src="https://user-images.githubusercontent.com/58082952/155746299-279c40ed-1dec-4220-96d7-b0928877cd8d.png"
                     alt="CC_20220225_170842">&nbsp;&nbsp;&nbsp;&nbsp;
-                <img width="8%" src="https://user-images.githubusercontent.com/58082952/155746305-bd2b8c9a-0e8a-4c07-8102-6671f2d3275d.png"
+                <img width="8%"
+                    src="https://user-images.githubusercontent.com/58082952/155746305-bd2b8c9a-0e8a-4c07-8102-6671f2d3275d.png"
                     alt="PicsArt_02-25-02 35 42">&nbsp;&nbsp;&nbsp;&nbsp;
-                <img width="8%" src="https://user-images.githubusercontent.com/58082952/155746308-f3a68cd3-6b04-4364-8fe0-9cd881a037e6.png"
+                <img width="8%"
+                    src="https://user-images.githubusercontent.com/58082952/155746308-f3a68cd3-6b04-4364-8fe0-9cd881a037e6.png"
                     alt="PicsArt_02-25-02 40 25">&nbsp;&nbsp;&nbsp;&nbsp;
-                <img width="8%" src="https://user-images.githubusercontent.com/58082952/155746315-ba8f4263-7d1c-4c6d-b613-f79d0da6f00e.png"
+                <img width="8%"
+                    src="https://user-images.githubusercontent.com/58082952/155746315-ba8f4263-7d1c-4c6d-b613-f79d0da6f00e.png"
                     alt="PicsArt_02-25-02 42 34">&nbsp;&nbsp;&nbsp;&nbsp;
-                <img width="8%" src="https://user-images.githubusercontent.com/58082952/155746323-9a14af10-ab54-4f3e-b553-a288f4c89c6b.png"
+                <img width="8%"
+                    src="https://user-images.githubusercontent.com/58082952/155746323-9a14af10-ab54-4f3e-b553-a288f4c89c6b.png"
                     alt="PicsArt_02-25-05 01 14">&nbsp;&nbsp;&nbsp;&nbsp;
-                    <br><br>
-                <img width="8%" src="https://user-images.githubusercontent.com/58082952/155746329-70c47348-da8f-448e-b3b6-47b86e2c331b.png"
+                <br><br>
+                <img width="8%"
+                    src="https://user-images.githubusercontent.com/58082952/155746329-70c47348-da8f-448e-b3b6-47b86e2c331b.png"
                     alt="PicsArt_02-25-05 02 33">&nbsp;&nbsp;&nbsp;&nbsp;
-                <img width="8%" src="https://user-images.githubusercontent.com/58082952/155746337-d9d83b54-9b23-4442-a264-8ba791ae60e6.png"
+                <img width="8%"
+                    src="https://user-images.githubusercontent.com/58082952/155746337-d9d83b54-9b23-4442-a264-8ba791ae60e6.png"
                     alt="PicsArt_02-25-05 04 36">&nbsp;&nbsp;&nbsp;&nbsp;
             </div>
             <br>
@@ -188,8 +196,7 @@
     <tr>
         <td width="24%">
             <div class="title-img" align="center">
-                width="100%" <img
-                    src="https://user-images.githubusercontent.com/58082952/155419602-a460ebda-15cc-4d5b-8434-18afc22c8b5f.jpg"
+                <img src="https://user-images.githubusercontent.com/58082952/155419602-a460ebda-15cc-4d5b-8434-18afc22c8b5f.jpg"
                     width="100%" alt="html-css-js" />
             </div><br>
             <div class="project-link">
@@ -201,8 +208,7 @@
         </td>
         <td width="24%">
             <div class="title-img" align="center">
-                width="100%" <img
-                    src="https://user-images.githubusercontent.com/58082952/155419622-6ac16a8d-b59c-4105-81d2-a59ca3be4b10.jpg"
+                <img src="https://user-images.githubusercontent.com/58082952/155419622-6ac16a8d-b59c-4105-81d2-a59ca3be4b10.jpg"
                     width="100%" alt="react" />
             </div><br>
             <div class="project-link">
@@ -214,8 +220,7 @@
         </td>
         <td width="24%">
             <div class="title-img" align="center">
-                width="100%" <img
-                    src="https://user-images.githubusercontent.com/58082952/155419625-8b8deb81-089b-4090-a9c6-99519b933827.jpg"
+                <img src="https://user-images.githubusercontent.com/58082952/155419625-8b8deb81-089b-4090-a9c6-99519b933827.jpg"
                     width="100%" alt="mern" />
             </div><br>
             <div class="project-link">
@@ -227,8 +232,7 @@
         </td>
         <td width="24%">
             <div class="title-img" align="center">
-                width="100%" <img
-                    src="https://user-images.githubusercontent.com/58082952/155419601-602dd63a-dd69-4641-a32b-9cb0c601114a.jpg"
+                <img src="https://user-images.githubusercontent.com/58082952/155419601-602dd63a-dd69-4641-a32b-9cb0c601114a.jpg"
                     width="100%" alt="php" />
             </div><br>
             <div class="project-link">
@@ -242,8 +246,7 @@
     <tr>
         <td width="24%">
             <div class="title-img" align="center">
-                width="100%" <img
-                    src="https://user-images.githubusercontent.com/58082952/155419631-3179f80f-b915-48ed-a9d8-087a62024173.jpg"
+                <img src="https://user-images.githubusercontent.com/58082952/155419631-3179f80f-b915-48ed-a9d8-087a62024173.jpg"
                     width="100%" alt="laravel" />
             </div><br>
             <div class="project-link">
@@ -255,8 +258,7 @@
         </td>
         <td width="24%">
             <div class="title-img" align="center">
-                width="100%" <img
-                    src="https://user-images.githubusercontent.com/58082952/155419586-0d27162d-482f-487d-9144-a0789bc525ea.jpg"
+                <img src="https://user-images.githubusercontent.com/58082952/155419586-0d27162d-482f-487d-9144-a0789bc525ea.jpg"
                     width="100%" alt="wp" />
             </div><br>
             <div class="project-link">
@@ -268,8 +270,7 @@
         </td>
         <td width="24%">
             <div class="title-img" align="center">
-                width="100%" <img
-                    src="https://user-images.githubusercontent.com/58082952/155746273-68833173-d773-4f16-9ec5-9f2620d70ccf.jpg"
+                <img src="https://user-images.githubusercontent.com/58082952/155746273-68833173-d773-4f16-9ec5-9f2620d70ccf.jpg"
                     width="100%" alt="mern" />
             </div><br>
             <div class="project-link">
@@ -281,8 +282,7 @@
         </td>
         <td width="24%">
             <div class="title-img" align="center">
-                width="100%" <img
-                    src="https://user-images.githubusercontent.com/58082952/155746275-0a694fe9-0ec6-4c58-9eaf-21f531af7e62.jpg"
+                <img src="https://user-images.githubusercontent.com/58082952/155746275-0a694fe9-0ec6-4c58-9eaf-21f531af7e62.jpg"
                     width="100%" alt="laravel" />
             </div><br>
             <div class="project-link">
