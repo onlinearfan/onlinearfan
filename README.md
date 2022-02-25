@@ -2,25 +2,25 @@
 <div align="center" class="Profile Title">
     <div>
         <a target="_blank" href="https://arfankhan.netlify.app/"><img width="10%"
-            src="https://user-images.githubusercontent.com/58082952/155401160-1c03ea82-6c96-408a-a74b-d58c560155e9.png"
-            alt="icon" /></a>
+                src="https://user-images.githubusercontent.com/58082952/155401160-1c03ea82-6c96-408a-a74b-d58c560155e9.png"
+                alt="icon" /></a>
     </div>
     <div>
         <a target="_blank" href="https://arfankhan.netlify.app/"><img width="50%"
-            src="https://user-images.githubusercontent.com/58082952/155396585-b72fc473-e6d9-43b4-8172-95858e7ba865.png"
-            alt="arfan-khan" /></a>
+                src="https://user-images.githubusercontent.com/58082952/155396585-b72fc473-e6d9-43b4-8172-95858e7ba865.png"
+                alt="arfan-khan" /></a>
     </div>
 </div><br><br><br>
 <!-- Github Banner Image -->
 <a target="_blank" href="https://arfankhan.netlify.app/"><img width="100%"
-    src="https://user-images.githubusercontent.com/58082952/155396000-063b929e-9358-42f2-88e4-3c9f4ff29714.jpg"
-    alt="cover-arfan" /></a><br><br><br>
+        src="https://user-images.githubusercontent.com/58082952/155396000-063b929e-9358-42f2-88e4-3c9f4ff29714.jpg"
+        alt="cover-arfan" /></a><br><br><br>
 <!-- A professional full Stack Developer -->
 <div>
     <div align="center">
         <a target="_blank" href="https://arfankhan.netlify.app/"><img width="45%"
-            src="https://user-images.githubusercontent.com/58082952/155396493-95a15078-9e34-4c48-817e-ef486af065a5.png"
-            alt="professional-webdev" /></a>
+                src="https://user-images.githubusercontent.com/58082952/155396493-95a15078-9e34-4c48-817e-ef486af065a5.png"
+                alt="professional-webdev" /></a>
     </div><br><br><br>
     <b>👑 I'm a passionate 🔭️ Web Developer currently learning 🌿 Nodejs deeply.</b><br>
     <b>👨🏾‍💻 Learing is fun for me. I always l💘ve to learn new 💻 Technologies.</b><br>
@@ -40,106 +40,107 @@
 <!-- My Skills Start -->
 <div align="center">
     <a target="_blank" href="https://arfankhan.netlify.app/"><img width="35%"
-        src="https://user-images.githubusercontent.com/58082952/155396554-f5d19743-0dd7-48c5-89bc-c74bab330097.png"
-        alt="cover-arfan" /></a>
+            src="https://user-images.githubusercontent.com/58082952/155396554-f5d19743-0dd7-48c5-89bc-c74bab330097.png"
+            alt="cover-arfan" /></a>
 </div><br><br><br>
 <a href="https://arfankhan.netlify.app/">
     <table border="1">
-    <tr>
-        <td><br>
-            <div align="center">
-                <img width="8%"
-                    src="https://user-images.githubusercontent.com/58082952/155397252-f3ca8943-e596-4d36-b938-a5f791e67da2.png"
-                    alt="vs-code" />&nbsp;&nbsp;&nbsp;&nbsp;
-                <img width="8%"
-                    src="https://user-images.githubusercontent.com/58082952/155397263-5b35bc39-a8d4-4681-9d57-55117dfe2a38.png"
-                    alt="html" />&nbsp;&nbsp;&nbsp;&nbsp;
-                <img width="8%"
-                    src="https://user-images.githubusercontent.com/58082952/155397274-cb25a8db-fe3e-4095-8327-9dd70830aded.png"
-                    alt="css" />&nbsp;&nbsp;&nbsp;&nbsp;
-                <img width="8%"
-                    src="https://user-images.githubusercontent.com/58082952/155397287-a6b13a81-a141-4eec-861d-15e0b54c17ec.png"
-                    alt="js" />&nbsp;&nbsp;&nbsp;&nbsp;
-                <img width="8%"
-                    src="https://user-images.githubusercontent.com/58082952/155397303-adb361d5-d2bf-4d6a-8ba3-f1a614a1e65f.png"
-                    alt="mongodb" />&nbsp;&nbsp;&nbsp;&nbsp;
-                <img width="8%"
-                    src="https://user-images.githubusercontent.com/58082952/155397313-29533e42-9b2a-403b-b239-b5606897c5f2.png"
-                    alt="express" />&nbsp;&nbsp;&nbsp;&nbsp;
-                <img width="8%"
-                    src="https://user-images.githubusercontent.com/58082952/155397334-d462b853-3a75-410f-b212-7830fcc2cdcc.png"
-                    alt="react" />&nbsp;&nbsp;&nbsp;&nbsp;
-                <img width="8%"
-                    src="https://user-images.githubusercontent.com/58082952/155397348-cc3b1f2b-9358-412d-9c71-402106271145.png"
-                    alt="nodejs" />&nbsp;&nbsp;&nbsp;&nbsp;
-                <br><br>
-                <img width="8%"
-                    src="https://user-images.githubusercontent.com/58082952/155397364-adae2984-4105-4578-a14b-90d7442fb649.png"
-                    alt="php" />&nbsp;&nbsp;&nbsp;&nbsp;
-                <img width="8%"
-                    src="https://user-images.githubusercontent.com/58082952/155397370-7cf013de-f1c0-4ff2-9cb8-d0d361a194e8.png"
-                    alt="laravel" />&nbsp;&nbsp;&nbsp;&nbsp;
-                <img width="8%"
-                    src="https://user-images.githubusercontent.com/58082952/155397383-48d7f180-624d-49fd-bfd3-04504806a969.png"
-                    alt="wordpress" />&nbsp;&nbsp;&nbsp;&nbsp;
-                <img width="8%"
-                    src="https://user-images.githubusercontent.com/58082952/155397404-08032fde-81c8-4ea3-8e70-f133a1de64a8.png"
-                    alt="git" />&nbsp;&nbsp;&nbsp;&nbsp;
-                <img width="8%"
-                    src="https://user-images.githubusercontent.com/58082952/155397424-fe1b9d85-4349-43be-8e88-8e7c62cdc639.png"
-                    alt="github" />&nbsp;&nbsp;&nbsp;&nbsp;
-                <img width="8%"
-                    src="https://user-images.githubusercontent.com/58082952/155397448-d53051aa-f4a3-434c-b059-a4394f4dc320.png"
-                    alt="photoshop" />&nbsp;&nbsp;&nbsp;&nbsp;
-                <img width="8%"
-                    src="https://user-images.githubusercontent.com/58082952/155397484-d5be06f3-2f67-40cb-a579-82645075cdd1.png"
-                    alt="xd" />&nbsp;&nbsp;&nbsp;&nbsp;
-                <img width="8%"
-                    src="https://user-images.githubusercontent.com/58082952/155397493-8d148d0c-0977-495c-8892-97739fd76f93.png"
-                    alt="illastrator" />&nbsp;&nbsp;&nbsp;&nbsp;
-                <br><br>
-                <img width="8%"
-                    src="https://user-images.githubusercontent.com/58082952/155397524-9975b385-b4a0-473e-9810-918ac6ef43e3.png"
-                    alt="powerpoint" />&nbsp;&nbsp;&nbsp;&nbsp;
-                <img width="8%"
-                    src="https://user-images.githubusercontent.com/58082952/155397533-8d27ebe7-53ee-4065-86b8-e03369b5e835.png"
-                    alt="xl" />&nbsp;&nbsp;&nbsp;&nbsp;
-                <img width="8%"
-                    src="https://user-images.githubusercontent.com/58082952/155746296-f7d14f9a-6dd7-42cb-a8e2-257a735cf030.png"
-                    alt="CC_20210911_034034">&nbsp;&nbsp;&nbsp;&nbsp;
-                <img width="8%"
-                    src="https://user-images.githubusercontent.com/58082952/155746299-279c40ed-1dec-4220-96d7-b0928877cd8d.png"
-                    alt="CC_20220225_170842">&nbsp;&nbsp;&nbsp;&nbsp;
-                <img width="8%"
-                    src="https://user-images.githubusercontent.com/58082952/155746305-bd2b8c9a-0e8a-4c07-8102-6671f2d3275d.png"
-                    alt="PicsArt_02-25-02 35 42">&nbsp;&nbsp;&nbsp;&nbsp;
-                <img width="8%"
-                    src="https://user-images.githubusercontent.com/58082952/155746308-f3a68cd3-6b04-4364-8fe0-9cd881a037e6.png"
-                    alt="PicsArt_02-25-02 40 25">&nbsp;&nbsp;&nbsp;&nbsp;
-                <img width="8%"
-                    src="https://user-images.githubusercontent.com/58082952/155746315-ba8f4263-7d1c-4c6d-b613-f79d0da6f00e.png"
-                    alt="PicsArt_02-25-02 42 34">&nbsp;&nbsp;&nbsp;&nbsp;
-                <img width="8%"
-                    src="https://user-images.githubusercontent.com/58082952/155746323-9a14af10-ab54-4f3e-b553-a288f4c89c6b.png"
-                    alt="PicsArt_02-25-05 01 14">&nbsp;&nbsp;&nbsp;&nbsp;
-                <br><br>
-                <img width="8%"
-                    src="https://user-images.githubusercontent.com/58082952/155746329-70c47348-da8f-448e-b3b6-47b86e2c331b.png"
-                    alt="PicsArt_02-25-05 02 33">&nbsp;&nbsp;&nbsp;&nbsp;
-                <img width="8%"
-                    src="https://user-images.githubusercontent.com/58082952/155746337-d9d83b54-9b23-4442-a264-8ba791ae60e6.png"
-                    alt="PicsArt_02-25-05 04 36">&nbsp;&nbsp;&nbsp;&nbsp;
-            </div>
-            <br>
-        </td>
-    </tr>
-</table></a>
+        <tr>
+            <td><br>
+                <div align="center">
+                    <img width="8%"
+                        src="https://user-images.githubusercontent.com/58082952/155397252-f3ca8943-e596-4d36-b938-a5f791e67da2.png"
+                        alt="vs-code" />&nbsp;&nbsp;&nbsp;&nbsp;
+                    <img width="8%"
+                        src="https://user-images.githubusercontent.com/58082952/155397263-5b35bc39-a8d4-4681-9d57-55117dfe2a38.png"
+                        alt="html" />&nbsp;&nbsp;&nbsp;&nbsp;
+                    <img width="8%"
+                        src="https://user-images.githubusercontent.com/58082952/155397274-cb25a8db-fe3e-4095-8327-9dd70830aded.png"
+                        alt="css" />&nbsp;&nbsp;&nbsp;&nbsp;
+                    <img width="8%"
+                        src="https://user-images.githubusercontent.com/58082952/155397287-a6b13a81-a141-4eec-861d-15e0b54c17ec.png"
+                        alt="js" />&nbsp;&nbsp;&nbsp;&nbsp;
+                    <img width="8%"
+                        src="https://user-images.githubusercontent.com/58082952/155397303-adb361d5-d2bf-4d6a-8ba3-f1a614a1e65f.png"
+                        alt="mongodb" />&nbsp;&nbsp;&nbsp;&nbsp;
+                    <img width="8%"
+                        src="https://user-images.githubusercontent.com/58082952/155397313-29533e42-9b2a-403b-b239-b5606897c5f2.png"
+                        alt="express" />&nbsp;&nbsp;&nbsp;&nbsp;
+                    <img width="8%"
+                        src="https://user-images.githubusercontent.com/58082952/155397334-d462b853-3a75-410f-b212-7830fcc2cdcc.png"
+                        alt="react" />&nbsp;&nbsp;&nbsp;&nbsp;
+                    <img width="8%"
+                        src="https://user-images.githubusercontent.com/58082952/155397348-cc3b1f2b-9358-412d-9c71-402106271145.png"
+                        alt="nodejs" />&nbsp;&nbsp;&nbsp;&nbsp;
+                    <br><br>
+                    <img width="8%"
+                        src="https://user-images.githubusercontent.com/58082952/155397364-adae2984-4105-4578-a14b-90d7442fb649.png"
+                        alt="php" />&nbsp;&nbsp;&nbsp;&nbsp;
+                    <img width="8%"
+                        src="https://user-images.githubusercontent.com/58082952/155397370-7cf013de-f1c0-4ff2-9cb8-d0d361a194e8.png"
+                        alt="laravel" />&nbsp;&nbsp;&nbsp;&nbsp;
+                    <img width="8%"
+                        src="https://user-images.githubusercontent.com/58082952/155397383-48d7f180-624d-49fd-bfd3-04504806a969.png"
+                        alt="wordpress" />&nbsp;&nbsp;&nbsp;&nbsp;
+                    <img width="8%"
+                        src="https://user-images.githubusercontent.com/58082952/155397404-08032fde-81c8-4ea3-8e70-f133a1de64a8.png"
+                        alt="git" />&nbsp;&nbsp;&nbsp;&nbsp;
+                    <img width="8%"
+                        src="https://user-images.githubusercontent.com/58082952/155397424-fe1b9d85-4349-43be-8e88-8e7c62cdc639.png"
+                        alt="github" />&nbsp;&nbsp;&nbsp;&nbsp;
+                    <img width="8%"
+                        src="https://user-images.githubusercontent.com/58082952/155397448-d53051aa-f4a3-434c-b059-a4394f4dc320.png"
+                        alt="photoshop" />&nbsp;&nbsp;&nbsp;&nbsp;
+                    <img width="8%"
+                        src="https://user-images.githubusercontent.com/58082952/155397484-d5be06f3-2f67-40cb-a579-82645075cdd1.png"
+                        alt="xd" />&nbsp;&nbsp;&nbsp;&nbsp;
+                    <img width="8%"
+                        src="https://user-images.githubusercontent.com/58082952/155397493-8d148d0c-0977-495c-8892-97739fd76f93.png"
+                        alt="illastrator" />&nbsp;&nbsp;&nbsp;&nbsp;
+                    <br><br>
+                    <img width="8%"
+                        src="https://user-images.githubusercontent.com/58082952/155397524-9975b385-b4a0-473e-9810-918ac6ef43e3.png"
+                        alt="powerpoint" />&nbsp;&nbsp;&nbsp;&nbsp;
+                    <img width="8%"
+                        src="https://user-images.githubusercontent.com/58082952/155397533-8d27ebe7-53ee-4065-86b8-e03369b5e835.png"
+                        alt="xl" />&nbsp;&nbsp;&nbsp;&nbsp;
+                    <img width="8%"
+                        src="https://user-images.githubusercontent.com/58082952/155746296-f7d14f9a-6dd7-42cb-a8e2-257a735cf030.png"
+                        alt="CC_20210911_034034">&nbsp;&nbsp;&nbsp;&nbsp;
+                    <img width="8%"
+                        src="https://user-images.githubusercontent.com/58082952/155746299-279c40ed-1dec-4220-96d7-b0928877cd8d.png"
+                        alt="CC_20220225_170842">&nbsp;&nbsp;&nbsp;&nbsp;
+                    <img width="8%"
+                        src="https://user-images.githubusercontent.com/58082952/155746305-bd2b8c9a-0e8a-4c07-8102-6671f2d3275d.png"
+                        alt="PicsArt_02-25-02 35 42">&nbsp;&nbsp;&nbsp;&nbsp;
+                    <img width="8%"
+                        src="https://user-images.githubusercontent.com/58082952/155746308-f3a68cd3-6b04-4364-8fe0-9cd881a037e6.png"
+                        alt="PicsArt_02-25-02 40 25">&nbsp;&nbsp;&nbsp;&nbsp;
+                    <img width="8%"
+                        src="https://user-images.githubusercontent.com/58082952/155746315-ba8f4263-7d1c-4c6d-b613-f79d0da6f00e.png"
+                        alt="PicsArt_02-25-02 42 34">&nbsp;&nbsp;&nbsp;&nbsp;
+                    <img width="8%"
+                        src="https://user-images.githubusercontent.com/58082952/155746323-9a14af10-ab54-4f3e-b553-a288f4c89c6b.png"
+                        alt="PicsArt_02-25-05 01 14">&nbsp;&nbsp;&nbsp;&nbsp;
+                    <br><br>
+                    <img width="8%"
+                        src="https://user-images.githubusercontent.com/58082952/155746329-70c47348-da8f-448e-b3b6-47b86e2c331b.png"
+                        alt="PicsArt_02-25-05 02 33">&nbsp;&nbsp;&nbsp;&nbsp;
+                    <img width="8%"
+                        src="https://user-images.githubusercontent.com/58082952/155746337-d9d83b54-9b23-4442-a264-8ba791ae60e6.png"
+                        alt="PicsArt_02-25-05 04 36">&nbsp;&nbsp;&nbsp;&nbsp;
+                </div>
+                <br>
+            </td>
+        </tr>
+    </table>
+</a>
 <br><br>
 <!-- connect With Me Start -->
 <div align="center">
     <a target="_blank" href="https://arfankhan.netlify.app/"><img width="45%"
-        src="https://user-images.githubusercontent.com/58082952/155396600-2ce485cc-b7d9-441d-88ac-5f1ce8927b89.png"
-        alt="connect" /></a>
+            src="https://user-images.githubusercontent.com/58082952/155396600-2ce485cc-b7d9-441d-88ac-5f1ce8927b89.png"
+            alt="connect" /></a>
 </div><br><br><br>
 <div>
     <a target="_blank" href="https://arfankhan.netlify.app/"><img
@@ -188,8 +189,8 @@
 <br><br><br><br>
 <!-- My Projects Start -->
 <div align="center"><a href="https://arfankhan.netlify.app/"><img width="40%"
-        src="https://user-images.githubusercontent.com/58082952/155419606-64f04e50-4d69-41df-b64d-e35ca79458b7.png"
-        alt="project" /></a></div><br><br><br>
+            src="https://user-images.githubusercontent.com/58082952/155419606-64f04e50-4d69-41df-b64d-e35ca79458b7.png"
+            alt="project" /></a></div><br><br><br>
 <table border="1">
     <tr>
         <td width="24%">
@@ -294,49 +295,51 @@
 </table><br><br><br>
 <!-- My Photo Album Start -->
 <div align="center"><a href="https://arfankhan.netlify.app/"><img width="40%"
-        src="https://user-images.githubusercontent.com/58082952/155746291-499a155f-a5bf-465c-98cd-e612beba1e34.png"
-        alt="project" /></a></div><br><br><br>
-<a href="https://arfankhan.netlify.app/"><table>
-    <tr>
-        <td width="24%">
-            <img width="100%"
-                src="https://user-images.githubusercontent.com/58082952/155746238-ccadc540-cf84-46ca-8509-b98322c98a8f.jpg" />
-        </td>
-        <td width="24%">
-            <img width="100%"
-                src="https://user-images.githubusercontent.com/58082952/155746245-11edc0bb-2d3f-42ba-8aa2-7b4e20fd83ca.jpg" />
-        </td>
-        <td width="24%">
-            <img width="100%"
-                src="https://user-images.githubusercontent.com/58082952/155746247-68f820f4-0175-4c4d-8076-d282020da9bb.jpg" />
-        </td>
-        <td width="24%">
-            <img width="100%"
-                src="https://user-images.githubusercontent.com/58082952/155746270-076530ff-13ab-4dc9-86fb-79c0d1a14344.jpg" />
-        </td>
-    </tr>
-    <tr>
-        <td width="24%">
-            <img width="100%"
-                src="https://user-images.githubusercontent.com/58082952/155746257-cdcf940e-4f19-4c54-a2fc-96b02dfd3892.jpg" />
-        </td>
-        <td width="24%">
-            <img width="100%"
-                src="https://user-images.githubusercontent.com/58082952/155746251-b2f91669-d29c-4369-82e2-45a6df883945.jpg" />
-        </td>
-        <td width="24%">
-            <img width="100%"
-                src="https://user-images.githubusercontent.com/58082952/155746266-232061e4-7fc9-41b1-9c17-a85c6c1918c6.jpg" />
-        </td>
-        <td width="24%">
-            <img width="100%"
-                src="https://user-images.githubusercontent.com/58082952/155746262-2ec8f011-0b05-4feb-ab1c-a127618ba580.jpg" />
-        </td>
-    </tr>
-    <tr align="center">
-        <td width="24%">
-            <img width="100%"
-                src="https://user-images.githubusercontent.com/58082952/155746255-954c853f-63e2-44d4-a3d4-cb3a2bb41fbc.jpg" />
-        </td>
-    </tr>
-</table></a>
+            src="https://user-images.githubusercontent.com/58082952/155746291-499a155f-a5bf-465c-98cd-e612beba1e34.png"
+            alt="project" /></a></div><br><br><br>
+<a href="https://arfankhan.netlify.app/">
+    <table>
+        <tr>
+            <td width="24%">
+                <img width="100%"
+                    src="https://user-images.githubusercontent.com/58082952/155746238-ccadc540-cf84-46ca-8509-b98322c98a8f.jpg" />
+            </td>
+            <td width="24%">
+                <img width="100%"
+                    src="https://user-images.githubusercontent.com/58082952/155746245-11edc0bb-2d3f-42ba-8aa2-7b4e20fd83ca.jpg" />
+            </td>
+            <td width="24%">
+                <img width="100%"
+                    src="https://user-images.githubusercontent.com/58082952/155746247-68f820f4-0175-4c4d-8076-d282020da9bb.jpg" />
+            </td>
+            <td width="24%">
+                <img width="100%"
+                    src="https://user-images.githubusercontent.com/58082952/155746270-076530ff-13ab-4dc9-86fb-79c0d1a14344.jpg" />
+            </td>
+        </tr>
+        <tr>
+            <td width="24%">
+                <img width="100%"
+                    src="https://user-images.githubusercontent.com/58082952/155746257-cdcf940e-4f19-4c54-a2fc-96b02dfd3892.jpg" />
+            </td>
+            <td width="24%">
+                <img width="100%"
+                    src="https://user-images.githubusercontent.com/58082952/155746251-b2f91669-d29c-4369-82e2-45a6df883945.jpg" />
+            </td>
+            <td width="24%">
+                <img width="100%"
+                    src="https://user-images.githubusercontent.com/58082952/155746266-232061e4-7fc9-41b1-9c17-a85c6c1918c6.jpg" />
+            </td>
+            <td width="24%">
+                <img width="100%"
+                    src="https://user-images.githubusercontent.com/58082952/155746262-2ec8f011-0b05-4feb-ab1c-a127618ba580.jpg" />
+            </td>
+        </tr>
+        <tr align="center">
+            <td width="24%">
+                <img width="100%"
+                    src="https://user-images.githubusercontent.com/58082952/155746255-954c853f-63e2-44d4-a3d4-cb3a2bb41fbc.jpg" />
+            </td>
+        </tr>
+    </table>
+</a>
