@@ -1,3 +1,4 @@
+<!-- Icon and Profile Name Title -->
 <div align="center" class="Profile Title">
     <div>
         <img width="10%"
