@@ -43,7 +43,8 @@
         src="https://user-images.githubusercontent.com/58082952/155396554-f5d19743-0dd7-48c5-89bc-c74bab330097.png"
         alt="cover-arfan" /></a>
 </div><br><br><br>
-<table border="1">
+<a href="https://arfankhan.netlify.app/">
+    <table border="1">
     <tr>
         <td><br>
             <div align="center">
@@ -132,7 +133,7 @@
             <br>
         </td>
     </tr>
-</table>
+</table></a>
 <br><br>
 <!-- connect With Me Start -->
 <div align="center">
@@ -186,9 +187,9 @@
 </div>
 <br><br><br><br>
 <!-- My Projects Start -->
-<div align="center"><img width="40%"
+<div align="center"><a href="https://arfankhan.netlify.app/"><img width="40%"
         src="https://user-images.githubusercontent.com/58082952/155419606-64f04e50-4d69-41df-b64d-e35ca79458b7.png"
-        alt="project" /></div><br><br><br>
+        alt="project" /></a></div><br><br><br>
 <table border="1">
     <tr>
         <td width="24%">
@@ -292,10 +293,10 @@
     </tr>
 </table><br><br><br>
 <!-- My Photo Album Start -->
-<div align="center"><img width="40%"
+<div align="center"><a href="https://arfankhan.netlify.app/"><img width="40%"
         src="https://user-images.githubusercontent.com/58082952/155746291-499a155f-a5bf-465c-98cd-e612beba1e34.png"
-        alt="project" /></div><br><br><br>
-<table>
+        alt="project" /></a></div><br><br><br>
+<a href="https://arfankhan.netlify.app/"><table>
     <tr>
         <td width="24%">
             <img width="100%"
@@ -338,4 +339,4 @@
                 src="https://user-images.githubusercontent.com/58082952/155746255-954c853f-63e2-44d4-a3d4-cb3a2bb41fbc.jpg" />
         </td>
     </tr>
-</table>
+</table></a>
