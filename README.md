@@ -1,8 +1,8 @@
 <table border="1">
     <tr>
-        <td width="100%" colspan="3">
+        <td colspan="3">
             <img
-                src="https://user-images.githubusercontent.com/58082952/155746283-b13815a3-6b09-4c5e-be38-3998a4465bf6.jpg"/>
+            width="100%" src="https://user-images.githubusercontent.com/58082952/155746283-b13815a3-6b09-4c5e-be38-3998a4465bf6.jpg"/>
         </td>
     </tr>
     <tr>
