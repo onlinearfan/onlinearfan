@@ -18,7 +18,7 @@
 <!-- A professional full Stack Developer -->
 <div>
     <div align="center">
-        <a target="_blank" href="https://arfankhan.netlify.app/"><img width="45%"
+        <a target="_blank" href="https://arfankhan.netlify.app/"><img width="47%"
                 src="https://user-images.githubusercontent.com/58082952/155396493-95a15078-9e34-4c48-817e-ef486af065a5.png"
                 alt="professional-webdev" /></a>
     </div><br><br><br>
