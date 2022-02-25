@@ -35,7 +35,7 @@
                 width="100%" src="https://user-images.githubusercontent.com/58082952/155746262-2ec8f011-0b05-4feb-ab1c-a127618ba580.jpg" />
         </td>
     </tr>
-    <tr>
+    <tr align="center">
         <td width="24%">
             <img
                 width="100%" src="https://user-images.githubusercontent.com/58082952/155746255-954c853f-63e2-44d4-a3d4-cb3a2bb41fbc.jpg" />
