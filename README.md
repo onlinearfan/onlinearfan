@@ -1,55 +1,53 @@
-<div align="center"><img width="40%"
-    src="https://user-images.githubusercontent.com/58082952/155746291-499a155f-a5bf-465c-98cd-e612beba1e34.png"
-    alt="project" /></div><br><br><br>
 <table border="1">
-<tr>
-    <td width="100%">
-        <img src="https://user-images.githubusercontent.com/58082952/155746283-b13815a3-6b09-4c5e-be38-3998a4465bf6.jpg"
-                width="100%" />
-    </td>
-</tr>
-<tr>
-    <td width="30%">
-        <img src="https://user-images.githubusercontent.com/58082952/155746238-ccadc540-cf84-46ca-8509-b98322c98a8f.jpg"
-                width="100%" />
-    </td>
-    <td width="30%">
-        <img src="https://user-images.githubusercontent.com/58082952/155746245-11edc0bb-2d3f-42ba-8aa2-7b4e20fd83ca.jpg"
-                width="100%" />
-    </td>
-    <td width="30%">
-        <img src="https://user-images.githubusercontent.com/58082952/155746247-68f820f4-0175-4c4d-8076-d282020da9bb.jpg"
-        width="100%" />
-    </td>
-</tr>
-<tr>
-    <td width="30%">
-        <img src="https://user-images.githubusercontent.com/58082952/155746270-076530ff-13ab-4dc9-86fb-79c0d1a14344.jpg"
-                width="100%" />
-    </td>
-    <td width="30%">
-        <img src="https://user-images.githubusercontent.com/58082952/155746266-232061e4-7fc9-41b1-9c17-a85c6c1918c6.jpg"
-                width="100%" />
-    </td>
-    <td width="30%">
-        <img src="https://user-images.githubusercontent.com/58082952/155746262-2ec8f011-0b05-4feb-ab1c-a127618ba580.jpg"
-        width="100%" />
-    </td>
-</tr>
-<tr>
-    <td width="30%">
-        <img src="https://user-images.githubusercontent.com/58082952/155746257-cdcf940e-4f19-4c54-a2fc-96b02dfd3892.jpg"
-                width="100%" />
-    </td>
-    <td width="30%">
-        <img src="https://user-images.githubusercontent.com/58082952/155746251-b2f91669-d29c-4369-82e2-45a6df883945.jpg"
-        width="100%" />
-    </td>
-    <td width="30%">
-        <img src="https://user-images.githubusercontent.com/58082952/155746255-954c853f-63e2-44d4-a3d4-cb3a2bb41fbc.jpg"
-        width="100%" />
-    </td>
-</tr>
+    <tr>
+        <td width="100%" colspan="3">
+            <img
+                src="https://user-images.githubusercontent.com/58082952/155746283-b13815a3-6b09-4c5e-be38-3998a4465bf6.jpg"/>
+        </td>
+    </tr>
+    <tr>
+        <td width="24%">
+            <img
+                width="100%" src="https://user-images.githubusercontent.com/58082952/155746238-ccadc540-cf84-46ca-8509-b98322c98a8f.jpg" />
+        </td>
+        <td width="24%">
+            <img
+                width="100%" src="https://user-images.githubusercontent.com/58082952/155746245-11edc0bb-2d3f-42ba-8aa2-7b4e20fd83ca.jpg" />
+        </td>
+        <td width="24%">
+            <img
+                width="100%" src="https://user-images.githubusercontent.com/58082952/155746247-68f820f4-0175-4c4d-8076-d282020da9bb.jpg" />
+        </td>
+    </tr>
+    <tr>
+        <td width="24%">
+            <img
+                width="100%" src="https://user-images.githubusercontent.com/58082952/155746270-076530ff-13ab-4dc9-86fb-79c0d1a14344.jpg" />
+        </td>
+        <td width="24%">
+            <img
+                width="100%" src="https://user-images.githubusercontent.com/58082952/155746266-232061e4-7fc9-41b1-9c17-a85c6c1918c6.jpg" />
+        </td>
+        <td width="24%">
+            <img
+                width="100%" src="https://user-images.githubusercontent.com/58082952/155746262-2ec8f011-0b05-4feb-ab1c-a127618ba580.jpg" />
+        </td>
+    </tr>
+    <tr>
+        <td width="24%">
+            <img
+                width="100%" src="https://user-images.githubusercontent.com/58082952/155746257-cdcf940e-4f19-4c54-a2fc-96b02dfd3892.jpg" />
+        </td>
+        <td width="24%">
+            <img
+                width="100%" src="https://user-images.githubusercontent.com/58082952/155746251-b2f91669-d29c-4369-82e2-45a6df883945.jpg" />
+        </td>
+        <td width="24%">
+            <img
+                width="100%" src="https://user-images.githubusercontent.com/58082952/155746255-954c853f-63e2-44d4-a3d4-cb3a2bb41fbc.jpg" />
+        </td>
+    </tr>
+
 </table>
 <!-- Icon and Profile Name Title -->
 <div align="center" class="Profile Title">
