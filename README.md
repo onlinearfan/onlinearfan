@@ -1,24 +1,24 @@
 <!-- Icon and Profile Name Title -->
 <div align="center" class="Profile Title">
     <div>
-        <a href="https://arfankhan.netlify.app/"><img width="10%"
+        <a target="_blank" href="https://arfankhan.netlify.app/"><img width="10%"
             src="https://user-images.githubusercontent.com/58082952/155401160-1c03ea82-6c96-408a-a74b-d58c560155e9.png"
             alt="icon" /></a>
     </div>
     <div>
-        <a href="https://arfankhan.netlify.app/"><img width="50%"
+        <a target="_blank" href="https://arfankhan.netlify.app/"><img width="50%"
             src="https://user-images.githubusercontent.com/58082952/155396585-b72fc473-e6d9-43b4-8172-95858e7ba865.png"
             alt="arfan-khan" /></a>
     </div>
 </div><br><br><br>
 <!-- Github Banner Image -->
-<a href="https://arfankhan.netlify.app/"><img width="100%"
+<a target="_blank" href="https://arfankhan.netlify.app/"><img width="100%"
     src="https://user-images.githubusercontent.com/58082952/155396000-063b929e-9358-42f2-88e4-3c9f4ff29714.jpg"
     alt="cover-arfan" /></a><br><br><br>
 <!-- A professional full Stack Developer -->
 <div>
     <div align="center">
-        <a href="https://arfankhan.netlify.app/"><img width="45%"
+        <a target="_blank" href="https://arfankhan.netlify.app/"><img width="45%"
             src="https://user-images.githubusercontent.com/58082952/155396493-95a15078-9e34-4c48-817e-ef486af065a5.png"
             alt="professional-webdev" /></a>
     </div><br><br><br>
@@ -39,7 +39,7 @@
 </div><br><br>
 <!-- My Skills Start -->
 <div align="center">
-    <a href="https://arfankhan.netlify.app/"><img width="35%"
+    <a target="_blank" href="https://arfankhan.netlify.app/"><img width="35%"
         src="https://user-images.githubusercontent.com/58082952/155396554-f5d19743-0dd7-48c5-89bc-c74bab330097.png"
         alt="cover-arfan" /></a>
 </div><br><br><br>
@@ -136,51 +136,51 @@
 <br><br>
 <!-- connect With Me Start -->
 <div align="center">
-    <a href="https://arfankhan.netlify.app/"><img width="45%"
+    <a target="_blank" href="https://arfankhan.netlify.app/"><img width="45%"
         src="https://user-images.githubusercontent.com/58082952/155396600-2ce485cc-b7d9-441d-88ac-5f1ce8927b89.png"
         alt="connect" /></a>
 </div><br><br><br>
-<div align="center">
+<div>
     <a target="_blank" href="https://arfankhan.netlify.app/"><img
             src="https://user-images.githubusercontent.com/58082952/155419618-cf4e6385-2d6d-4c0b-88bd-e288e34a3473.jpg"
             width="17%" alt="arfan" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a target="_blank" href="mailto:khan188993@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img
             src="https://user-images.githubusercontent.com/58082952/155407722-7eae866e-ab5f-430a-8d5d-78e34f353296.jpg"
             width="17%" alt="gmail" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://twitter.com/ArfanKhan009"><img
+    <a target="_blank" href="https://twitter.com/ArfanKhan009"><img
             src="https://user-images.githubusercontent.com/58082952/155407725-21b7cbda-510a-4b7e-b14f-c1b0f02853e3.jpg"
             width="17%" alt="twitter" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href=""><img
-            src="https://dribbble.com/Khan188993"
+    <a target="_blank" href="https://dribbble.com/Khan188993"><img
+            src="https://user-images.githubusercontent.com/58082952/155407716-b2fada56-bc8c-4f8b-97f5-ff4f6686e2cf.jpg"
             width="17%" alt="dribble" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://github.com/Khan188993"><img
+    <a target="_blank" href="https://github.com/Khan188993"><img
             src="https://user-images.githubusercontent.com/58082952/155407728-cb413ebb-7b5c-4f17-9f2d-1529c4b1805d.jpg"
             width="17%" alt="github" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<br><br>
-    <a href="https://github.com/Khan188993"><img
+    <a target="_blank" href="https://github.com/Khan188993"><img
             src="https://user-images.githubusercontent.com/58082952/155407734-b0d62337-9fcc-42da-8d01-cbd8f215a135.jpg"
             width="17%" alt="behance" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.facebook.com/profile.php?id=100028765123084"><img
+    <a target="_blank" href="https://www.facebook.com/profile.php?id=100028765123084"><img
             src="https://user-images.githubusercontent.com/58082952/155407731-eef65949-5926-4505-b1eb-f5eaddc97d1b.jpg"
             width="17%" alt="fb" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.instagram.com/khan188993/"><img
+    <a target="_blank" href="https://www.instagram.com/khan188993/"><img
             src="https://user-images.githubusercontent.com/58082952/155410299-bc5f48fe-afdc-4029-92da-1b09edb62489.jpg"
             width="17%" alt="instagram" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/khan188993"><img
+    <a target="_blank" href="https://www.linkedin.com/in/khan188993"><img
             src="https://user-images.githubusercontent.com/58082952/155410306-25ed60ee-7c6b-490c-9882-e74b8b471d9b.jpg"
             width="17%" alt="linkend" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a target="_blank" href="https://www.linkedin.com/in/khan188993"><img
             src="https://user-images.githubusercontent.com/58082952/155407719-87e24d90-ae77-4240-9e21-61c0918b2b07.jpg"
             width="17%" alt="youtube" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<br><br>
-    <a href="https://www.fiverr.com/onlinearfan"><img
+    <a target="_blank" href="https://www.fiverr.com/onlinearfan"><img
             src="https://user-images.githubusercontent.com/58082952/155424035-7a230a17-3fe0-49ba-9db9-a52e1b20fe64.jpg"
             width="17%" alt="fiverr" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://github.com/Khan188993"><img
+    <a target="_blank" href="https://github.com/Khan188993"><img
             src="https://user-images.githubusercontent.com/58082952/155424126-9fe342fc-2414-4258-bfb1-82cb7ff44b47.jpg"
             width="17%" alt="upwork" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://github.com/Khan188993"><img
+    <a target="_blank" href="https://github.com/Khan188993"><img
             src="https://user-images.githubusercontent.com/58082952/155424132-e7424ae1-7740-4f19-acdb-59af9692fd78.jpg"
             width="17%" alt="freelancer" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://github.com/Khan188993"><img
+    <a target="_blank" href="https://github.com/Khan188993"><img
             src="https://user-images.githubusercontent.com/58082952/155424131-7e7246c4-8d9b-4f7c-a8ba-c9d60509dd5c.jpg"
             width="17%" alt="peopleperhour" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
@@ -197,10 +197,10 @@
                     width="100%" alt="html-css-js" />
             </div><br>
             <div class="project-link">
-                <div><span>🎯 </span><a href="#">Project Name</a></div>
-                <div><span>🎯 </span><a href="#">Project Name</a></div>
-                <div><span>🎯 </span><a href="#">Project Name</a></div>
-                <div><span>🎯 </span><a href="#">Project Name</a></div>
+                <div><span>🎯 </span><a target="_blank" href="#">Project Name</a></div>
+                <div><span>🎯 </span><a target="_blank" href="#">Project Name</a></div>
+                <div><span>🎯 </span><a target="_blank" href="#">Project Name</a></div>
+                <div><span>🎯 </span><a target="_blank" href="#">Project Name</a></div>
             </div>
         </td>
         <td width="24%">
@@ -209,10 +209,10 @@
                     width="100%" alt="react" />
             </div><br>
             <div class="project-link">
-                <div><span>🎯 </span><a href="#">Project Name</a></div>
-                <div><span>🎯 </span><a href="#">Project Name</a></div>
-                <div><span>🎯 </span><a href="#">Project Name</a></div>
-                <div><span>🎯 </span><a href="#">Project Name</a></div>
+                <div><span>🎯 </span><a target="_blank" href="#">Project Name</a></div>
+                <div><span>🎯 </span><a target="_blank" href="#">Project Name</a></div>
+                <div><span>🎯 </span><a target="_blank" href="#">Project Name</a></div>
+                <div><span>🎯 </span><a target="_blank" href="#">Project Name</a></div>
             </div>
         </td>
         <td width="24%">
@@ -221,10 +221,10 @@
                     width="100%" alt="mern" />
             </div><br>
             <div class="project-link">
-                <div><span>🎯 </span><a href="#">Project Name</a></div>
-                <div><span>🎯 </span><a href="#">Project Name</a></div>
-                <div><span>🎯 </span><a href="#">Project Name</a></div>
-                <div><span>🎯 </span><a href="#">Project Name</a></div>
+                <div><span>🎯 </span><a target="_blank" href="#">Project Name</a></div>
+                <div><span>🎯 </span><a target="_blank" href="#">Project Name</a></div>
+                <div><span>🎯 </span><a target="_blank" href="#">Project Name</a></div>
+                <div><span>🎯 </span><a target="_blank" href="#">Project Name</a></div>
             </div>
         </td>
         <td width="24%">
@@ -233,10 +233,10 @@
                     width="100%" alt="php" />
             </div><br>
             <div class="project-link">
-                <div><span>🎯 </span><a href="#">Project Name</a></div>
-                <div><span>🎯 </span><a href="#">Project Name</a></div>
-                <div><span>🎯 </span><a href="#">Project Name</a></div>
-                <div><span>🎯 </span><a href="#">Project Name</a></div>
+                <div><span>🎯 </span><a target="_blank" href="#">Project Name</a></div>
+                <div><span>🎯 </span><a target="_blank" href="#">Project Name</a></div>
+                <div><span>🎯 </span><a target="_blank" href="#">Project Name</a></div>
+                <div><span>🎯 </span><a target="_blank" href="#">Project Name</a></div>
             </div>
         </td>
     </tr>
@@ -247,10 +247,10 @@
                     width="100%" alt="laravel" />
             </div><br>
             <div class="project-link">
-                <div><span>🎯 </span><a href="#">Project Name</a></div>
-                <div><span>🎯 </span><a href="#">Project Name</a></div>
-                <div><span>🎯 </span><a href="#">Project Name</a></div>
-                <div><span>🎯 </span><a href="#">Project Name</a></div>
+                <div><span>🎯 </span><a target="_blank" href="#">Project Name</a></div>
+                <div><span>🎯 </span><a target="_blank" href="#">Project Name</a></div>
+                <div><span>🎯 </span><a target="_blank" href="#">Project Name</a></div>
+                <div><span>🎯 </span><a target="_blank" href="#">Project Name</a></div>
             </div>
         </td>
         <td width="24%">
@@ -259,10 +259,10 @@
                     width="100%" alt="wp" />
             </div><br>
             <div class="project-link">
-                <div><span>🎯 </span><a href="#">Project Name</a></div>
-                <div><span>🎯 </span><a href="#">Project Name</a></div>
-                <div><span>🎯 </span><a href="#">Project Name</a></div>
-                <div><span>🎯 </span><a href="#">Project Name</a></div>
+                <div><span>🎯 </span><a target="_blank" href="#">Project Name</a></div>
+                <div><span>🎯 </span><a target="_blank" href="#">Project Name</a></div>
+                <div><span>🎯 </span><a target="_blank" href="#">Project Name</a></div>
+                <div><span>🎯 </span><a target="_blank" href="#">Project Name</a></div>
             </div>
         </td>
         <td width="24%">
@@ -271,10 +271,10 @@
                     width="100%" alt="mern" />
             </div><br>
             <div class="project-link">
-                <div><span>🎯 </span><a href="#">Project Name</a></div>
-                <div><span>🎯 </span><a href="#">Project Name</a></div>
-                <div><span>🎯 </span><a href="#">Project Name</a></div>
-                <div><span>🎯 </span><a href="#">Project Name</a></div>
+                <div><span>🎯 </span><a target="_blank" href="#">Project Name</a></div>
+                <div><span>🎯 </span><a target="_blank" href="#">Project Name</a></div>
+                <div><span>🎯 </span><a target="_blank" href="#">Project Name</a></div>
+                <div><span>🎯 </span><a target="_blank" href="#">Project Name</a></div>
             </div>
         </td>
         <td width="24%">
@@ -283,10 +283,10 @@
                     width="100%" alt="laravel" />
             </div><br>
             <div class="project-link">
-                <div><span>🎯 </span><a href="#">Project Name</a></div>
-                <div><span>🎯 </span><a href="#">Project Name</a></div>
-                <div><span>🎯 </span><a href="#">Project Name</a></div>
-                <div><span>🎯 </span><a href="#">Project Name</a></div>
+                <div><span>🎯 </span><a target="_blank" href="#">Project Name</a></div>
+                <div><span>🎯 </span><a target="_blank" href="#">Project Name</a></div>
+                <div><span>🎯 </span><a target="_blank" href="#">Project Name</a></div>
+                <div><span>🎯 </span><a target="_blank" href="#">Project Name</a></div>
             </div>
         </td>
     </tr>
