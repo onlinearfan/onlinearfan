@@ -11,13 +11,11 @@
             alt="arfan-khan" />
     </div>
 </div><br><br><br>
+<!-- Github Banner Image -->
 <img width="100%"
     src="https://user-images.githubusercontent.com/58082952/155396000-063b929e-9358-42f2-88e4-3c9f4ff29714.jpg"
     alt="cover-arfan" /><br><br><br>
-
-
-
-
+<!-- A professional full Stack Developer -->
 <div>
     <div align="center">
         <img width="45%"
@@ -36,7 +34,9 @@
         <b>Strategic</b> 👨‍💼, <b>Goal-Oriented</b>, and always work with an end goal in mind.I'm working in <b>Web
             Development 😇</b> Sector about two years. I pride myself👨🏻‍🌾 on doing quality work and <b>maintain
             excellent communication 🎤</b>. Most of the time I work with <b>ReactJS</b> 🥰 but some technologies I enjoy
-        working with include Wordpress, JavaScript as well as PHP....</p><br><br>
+        working with include Wordpress, JavaScript as well as PHP....</p>
+</div><br><br>
+<!-- My Skills Start -->
     <div align="center">
         <img width="35%"
             src="https://user-images.githubusercontent.com/58082952/155396554-f5d19743-0dd7-48c5-89bc-c74bab330097.png"
@@ -108,6 +108,7 @@
         </tr>
     </table>
     <br><br>
+<!-- connect With Me Start -->
     <div align="center">
         <img width="45%"
             src="https://user-images.githubusercontent.com/58082952/155396600-2ce485cc-b7d9-441d-88ac-5f1ce8927b89.png"
@@ -160,8 +161,8 @@
                 src="https://user-images.githubusercontent.com/58082952/155407719-87e24d90-ae77-4240-9e21-61c0918b2b07.jpg"
                 width="17%" alt="youtube" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
     </div>
-</div>
 <br><br><br><br>
+<!-- My Projects Start -->
 <div align="center"><img width="40%"
         src="https://user-images.githubusercontent.com/58082952/155419606-64f04e50-4d69-41df-b64d-e35ca79458b7.png"
         alt="project" /></div><br><br><br>
@@ -267,3 +268,4 @@
         </td>
     </tr>
 </table>
+<!-- My Photo Album Start -->
