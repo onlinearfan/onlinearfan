@@ -43,7 +43,6 @@
             src="https://user-images.githubusercontent.com/58082952/155396554-f5d19743-0dd7-48c5-89bc-c74bab330097.png"
             alt="cover-arfan" /></a>
 </div><br><br><br>
-<a href="https://arfankhan.netlify.app/">
     <table border="1">
         <tr>
             <td><br>
@@ -134,7 +133,6 @@
             </td>
         </tr>
     </table>
-</a>
 <br><br>
 <!-- connect With Me Start -->
 <div align="center">
