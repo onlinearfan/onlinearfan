@@ -292,7 +292,7 @@
     </tr>
 </table><br><br><br>
 <!-- My Photo Album Start -->
-<div align="center"><a href="https://arfankhan.netlify.app/"><img width="40%"
+<div align="center"><a href="https://arfankhan.netlify.app/"><img width="45%"
             src="https://user-images.githubusercontent.com/58082952/155746291-499a155f-a5bf-465c-98cd-e612beba1e34.png"
             alt="project" /></a></div><br><br><br>
 <a href="https://arfankhan.netlify.app/">
