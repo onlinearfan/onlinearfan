@@ -1,11 +1,5 @@
 <table border="1">
     <tr>
-        <td colspan="3">
-            <img
-            width="100%" src="https://user-images.githubusercontent.com/58082952/155746283-b13815a3-6b09-4c5e-be38-3998a4465bf6.jpg"/>
-        </td>
-    </tr>
-    <tr>
         <td width="24%">
             <img
                 width="100%" src="https://user-images.githubusercontent.com/58082952/155746238-ccadc540-cf84-46ca-8509-b98322c98a8f.jpg" />
@@ -18,19 +12,9 @@
             <img
                 width="100%" src="https://user-images.githubusercontent.com/58082952/155746247-68f820f4-0175-4c4d-8076-d282020da9bb.jpg" />
         </td>
-    </tr>
-    <tr>
         <td width="24%">
             <img
                 width="100%" src="https://user-images.githubusercontent.com/58082952/155746270-076530ff-13ab-4dc9-86fb-79c0d1a14344.jpg" />
-        </td>
-        <td width="24%">
-            <img
-                width="100%" src="https://user-images.githubusercontent.com/58082952/155746266-232061e4-7fc9-41b1-9c17-a85c6c1918c6.jpg" />
-        </td>
-        <td width="24%">
-            <img
-                width="100%" src="https://user-images.githubusercontent.com/58082952/155746262-2ec8f011-0b05-4feb-ab1c-a127618ba580.jpg" />
         </td>
     </tr>
     <tr>
@@ -42,6 +26,16 @@
             <img
                 width="100%" src="https://user-images.githubusercontent.com/58082952/155746251-b2f91669-d29c-4369-82e2-45a6df883945.jpg" />
         </td>
+        <td width="24%">
+            <img
+                width="100%" src="https://user-images.githubusercontent.com/58082952/155746266-232061e4-7fc9-41b1-9c17-a85c6c1918c6.jpg" />
+        </td>
+        <td width="24%">
+            <img
+                width="100%" src="https://user-images.githubusercontent.com/58082952/155746262-2ec8f011-0b05-4feb-ab1c-a127618ba580.jpg" />
+        </td>
+    </tr>
+    <tr>
         <td width="24%">
             <img
                 width="100%" src="https://user-images.githubusercontent.com/58082952/155746255-954c853f-63e2-44d4-a3d4-cb3a2bb41fbc.jpg" />
