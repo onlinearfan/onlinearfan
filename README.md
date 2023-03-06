@@ -6,7 +6,7 @@
                 alt="icon" /></a>
     </div>
     <div>
-        <a target="_blank" href="https://onlinearfan.netlify.app/"><img width="50%"
+        <a target="_blank" href="https://linktr.ee/onlinearfan"><img width="50%"
                 src="https://user-images.githubusercontent.com/58082952/155396585-b72fc473-e6d9-43b4-8172-95858e7ba865.png"
                 alt="arfan-khan" /></a>
     </div>
